@@ -6,7 +6,9 @@ Please feel free to [contact us](https://process4.biz/en/contact-us/) and/or to 
 
 ### Product Information
 
-process4.biz is a specialized tool for corporate documentation based on Microsoft Visio. It is simple to use, yet powerful and flexible regarding the delivered results. process4.biz can be used to plan, document, communicate and analyze processes and structures of any company. Based on established standards and seamlessly integrated with the Microsoft world, process4.biz promptly provides results and relevant metrics.
+process4.biz is a specialized tool for corporate documentation based on Microsoft Visio. It is simple to use, yet powerful and flexible regarding the delivered results. 
+
+Our software can be used to plan, document, communicate and analyze processes and structures of any company. Based on established standards and seamlessly integrated with the Microsoft world, process4.biz promptly provides results and relevant metrics.
 
 - [Features](https://process4.biz/en/product-features/)
 - [Services](https://process4.biz/en/services/)
