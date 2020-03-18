@@ -1,0 +1,30 @@
+Using the Word Reporter, you can select diagrams and
+their [objects](object) and export them to Microsoft Word. You are able
+to create individual and targeted evaluations by selecting specific
+diagram
+types, [classes](class) and [properties](property-group-and-property). A customizable \*.dot template serves as basis for formatting the
+generated report. It is also possible to use
+the [batch-printing](batchprinting-of-diagrams) function
+for [diagrams](diagram).
+
+### Use the WordReporter
+
+-   [Using the process4.biz Word Reporter](wordreporter/using-the-word-reporter)
+
+-   [Step 1: Settings for the Publication](wordreporter/settings-for-publication)
+-   [Advanced Filtering of Data](wordreporter/advanced-filtering-of-data)
+-   [Step 3: Advanced Diagram Sorting](wordreporter/extended-diagram-sorting)
+-   [Step 4: Selection of diagram properties](wordreporter/selecting-diagram-properties)
+-   [Step 5: Selection of the Data](wordreporter/selecting-the-data)
+-   [Exported Contents](wordreporter/exported-contents)
+-   [Document template for WordReporter](wordreporter/document-template-for-wordreporter)
+-   [BatchPrinting of diagrams](wordreporter/batchprinting-of-diagrams)
+
+### Similar Topics
+
+-   Create documents and reports from queries
+    with [DocumentComposer](documentcomposer)
+-   Export and / or import data with
+    the [ImportExportManager](importexportmanager)
+-   Create and manage queries with the [QueryBuilder](querybuilder)
+-   Create a web publication with the [WebPublisher](webpublisher)
