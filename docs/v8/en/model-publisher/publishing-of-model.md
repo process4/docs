@@ -158,3 +158,7 @@ When an object is linked with other objects, you will see a list with linked obj
 ![MPub 9](//images.ctfassets.net/6mz8d8cle1nl/5pC1d3TLLGn5FqSqS7r378/c53af6afbec4adb6c89744a6d40e9971/MPub_9.png)
  
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

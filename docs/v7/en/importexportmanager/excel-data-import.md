@@ -185,3 +185,7 @@ completed.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5RYO9kgHniC6IskGI8M68A/a26276e384d5ddd0d2721b57bc683adf/329597.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

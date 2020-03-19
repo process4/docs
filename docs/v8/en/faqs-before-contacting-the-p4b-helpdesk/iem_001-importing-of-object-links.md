@@ -125,3 +125,7 @@ from-object.
 You can also delete all previously created links of the respective
 objects via "Overwrite object links with Excel", before importing the
 new links from the Excel file.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

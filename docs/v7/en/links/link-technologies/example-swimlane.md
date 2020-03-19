@@ -57,3 +57,7 @@ If swimlane technology is activated for all classes in the example
 described above (without the additional "whole shape stack"), the
 objects are linked as follows: A with B, B with A and C, C with B. The
 objects A and C are not linked.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

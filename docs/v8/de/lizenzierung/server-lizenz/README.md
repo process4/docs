@@ -70,3 +70,7 @@ Aktivieren Sie das Kontrollkästchen Protokolle aktivieren im Konfigurationsfens
 Diese Lizenzserveradresse sollte in den Client-Einstellungen im Modeler angegeben werden.
 
 ![Server License13](//images.ctfassets.net/6mz8d8cle1nl/44BUhElYTaxx1VhZI9HbqY/cb61ccb2d96322f2439fe80916bdd584/Server_License13.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

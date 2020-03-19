@@ -18,3 +18,7 @@ pressing Ctrl+End on keyboard.
 rows.  
 3) Right-click and select "delete".  
 4) Save the file.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

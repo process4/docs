@@ -32,3 +32,7 @@ Organigramm, werden Sie auch in process4.biz geändert und umgekehrt.
 ![](//images.ctfassets.net/utx1h0gfm1om/4B78EXShqg2cmy2giIWIQ2/0d7cb706083c79be087feed831b00b2b/1018498.png)  
   
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -16,3 +16,7 @@ compulsory separate licensing. 
 ![](//images.ctfassets.net/utx1h0gfm1om/1bWzUa8YjugEYakqoumMWI/a187abaa3bd5bf37fe7ec11d2ff69894/329113.png)
 
 ![](//images.ctfassets.net/utx1h0gfm1om/1Bjx3zbbGEOKIys6sykaKc/4eec98e5e74e03960d6fee9e52514bc2/329111.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

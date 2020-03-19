@@ -29,3 +29,6 @@ Es  gibt 4 Genehmigungsstatuse die im SharePoint Genehmigungsmanagement verfügb
 -  *Abgelehnt.* Dieser Status bedeutet, das Diagramm ist nicht akzeptiert und nicht genehmigt.
 
 ![SPapproval2](//images.ctfassets.net/6mz8d8cle1nl/7nLtboNYZMRQ4Udo7AI6HU/6313efbc5f3d9ec2afbce7de282956b3/SPapproval2.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -327,3 +327,6 @@ Da (in diesem Beispiel) der Wert den wir vererben wollen den DbName „temp“ h
 Immer wenn die Klasse B benutzt wird in irgendeinem Diagramm welches mit der Klasse A verlinkt ist, dann zeigt die Klasse B den Wert der Klasse A an. 
 
 ![2](//images.ctfassets.net/utx1h0gfm1om/4rvPg6FAVOeUkYo0ym2cuo/e44d839eac5f123cb2c409d96351cc41/2.jpg)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

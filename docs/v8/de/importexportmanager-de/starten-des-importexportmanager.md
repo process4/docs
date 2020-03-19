@@ -18,3 +18,7 @@ die Schaltfläche ***Weiter***.
 
 ![2-DE](//images.ctfassets.net/6mz8d8cle1nl/5yP6TiijgBxlTZW2kCUVtn/8a9175a345a87f7c9153d804dee3e4a7/2-DE.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

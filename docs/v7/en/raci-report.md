@@ -33,3 +33,7 @@ be translated into other languages; to open the translation window, click the bu
 Select the desired [Unit(s)](unit) from which you want to export RACI data. The export can be performed only for data of one selected units within the same descending hierarchy line. No parallel units can be selected simultaneously for the export process. 
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -13,3 +13,7 @@ welcher sich auf ein Attributeset eines Shapes bezieht.
 
 ![10-DE-2](//images.ctfassets.net/6mz8d8cle1nl/oUiGancWxa2miKUe2IecA/9a7eec0e9c8b9d19a5b73ed5674823a2/10-DE-2.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

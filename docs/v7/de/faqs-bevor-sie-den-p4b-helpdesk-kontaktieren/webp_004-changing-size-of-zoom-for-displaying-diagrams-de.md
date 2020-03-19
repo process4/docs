@@ -25,3 +25,7 @@ next publish, these settings will be reset to default.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/SZAaC2lUe4S2EW8UaWooe/ed2bc4ce7eaea7d4205f04d199c3e2ab/328941.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

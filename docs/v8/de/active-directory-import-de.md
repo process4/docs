@@ -29,3 +29,7 @@ Im AD Tree Selector kann der Benutzer spezifizieren, welche Benutzer, Gruppen un
 ![ADImport3](//images.ctfassets.net/6mz8d8cle1nl/4BK0yxALdqTqPRIBK0DLjL/75fd0a9f63c96426bff04ad42e88ac82/ADImport3.png)
 
 Wenn der Import fertig ist im Repository in der entsprechenden Klasse wird eine Liste der Objekte erstellt aus dem Active Directory. Verfügbare Eigenschaften dieser Objekte werden auch importiert, z.B. E-Mail, Telefonnummer, Adresse und andere. 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

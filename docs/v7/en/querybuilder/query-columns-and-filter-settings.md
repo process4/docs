@@ -98,3 +98,7 @@ can remove rows or move them up or down. Moving rows is also possible
 via these arrows ![](//images.ctfassets.net/utx1h0gfm1om/3h0E6zyl0Qe6K0SeMMyeKU/3488f90455c46e868651975f03674245/329321.png) and influences the
 order in which the columns are then listed with the evaluated properties
 in the window below.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

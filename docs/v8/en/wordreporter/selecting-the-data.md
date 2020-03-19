@@ -20,3 +20,6 @@ report with the exported diagrams and data objects.
 ![](//images.ctfassets.net/utx1h0gfm1om/1onTQgPIxG0wK0qGCAcu6O/ed8ed390ce39dc0c88f22ffda3710464/329012.png)
 
  
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

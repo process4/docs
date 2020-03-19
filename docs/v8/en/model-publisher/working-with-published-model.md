@@ -18,3 +18,7 @@ To open publication on the machine without installed Modeler copy the folder whe
 If after installation of node.js the site cannot be reached close the browser and run the start-site.bat from the folder again.
 
 ![48](//images.ctfassets.net/6mz8d8cle1nl/2xI36tbMzXcWJXpqLS6IyQ/dc1fc1365a70f4d29e5d187565af93c2/48.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

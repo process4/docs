@@ -149,3 +149,6 @@ a [property](property-group-and-property).
 ![](//images.ctfassets.net/utx1h0gfm1om/1pgw7Tb7hK28qs8MAAmkcI/c42bb9f012700b4f30a7fbe90e6337e9/328773.png)
 
 *Equip a master shape with a property*
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

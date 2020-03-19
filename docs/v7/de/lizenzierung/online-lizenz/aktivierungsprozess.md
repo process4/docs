@@ -78,3 +78,7 @@ Es ist möglich sich als Kunden Administrator an mehreren PCs einzuloggen und me
 Die Database License ist eine Art Lizenz für spezifische Datenbanken. Das ist eine Standard-Lizenz. Die Lizenz ist nicht mit dem Fingerprint verbunden und der Benutzer kann sich in die Datenbank von jedem PC einloggen, wo es gespeichert wurde. 
 
 Um die Art der Lizenz zu ändern von Named zu Database müssen Sie den Online License Administrator kontaktieren. 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

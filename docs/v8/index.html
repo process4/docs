@@ -16,6 +16,79 @@
       --errorColor: #f00;
       --warningColor: #e98300;
       --infoColor: #bbb;
+      --p4b-blue: #004a6d;
+    }
+
+    .bgw {
+      background-color: #fff;
+    }
+
+    .shadow-sm {
+      box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, .1);
+    }
+
+    .btn-block {
+      display: block;
+      width: 100%;
+    }
+
+    .btn-group-lg>.btn,
+    .btn-lg {
+      padding: 10px 25px;
+      font-size: 16px;
+      line-height: 1.33;
+    }
+
+    .btn-primary {
+      color: var(--theme-color);
+      background-color: transparent;
+      border-color: var(--theme-color);
+    }
+
+    .btn-secondary.active,
+    .btn-secondary:active,
+    .btn-secondary:focus,
+    .btn-secondary:hover,
+    .open>.dropdown-toggle.btn-secondary {
+      color: #fff;
+      background-color: var(--p4b-blue);
+      border-color: var(--p4b-blue);
+      transition: all .35s ease-in-out;
+    }
+
+    .btn-secondary {
+      color: var(--p4b-blue);
+      background-color: transparent;
+      border-color: var(--p4b-blue);
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 6px 12px;
+      margin-bottom: 0;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.5;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      cursor: pointer;
+      user-select: none;
+      background-image: none;
+      border: 1px solid transparent;
+      border-radius: 2px;
+      transition: all .35s ease-in-out;
+    }
+
+    a,
+    a:focus,
+    a:hover {
+      transition: all .35s ease-in-out;
+    }
+
+    a {
+      color: var(--theme-color);
+      text-decoration: none;
     }
   </style>
 

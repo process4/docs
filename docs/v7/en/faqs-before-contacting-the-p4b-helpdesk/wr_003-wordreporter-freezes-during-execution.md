@@ -14,3 +14,6 @@ In particular, we have found out that "Send to Bluetooth" causes problems:
 ![sendtobluetooth](//images.ctfassets.net/utx1h0gfm1om/4xFGZoAzFZKxw4tvNw1Ifx/aed6fd344af1e2730e42a5781eeee22b/sendtobluetooth.png)
 
 Please be aware, that process4.biz support only standard installations of Microsoft Office, i.e. installations without any Add-ins. 
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

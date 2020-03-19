@@ -128,3 +128,7 @@ See:
 -   [Linking Objects with Files](linking-objects-with-files)
 
 ![](//images.ctfassets.net/utx1h0gfm1om/3ErhVhPZxYgKqiiegCKCac/a88acefe5ad0d8f0fc0914660bf63842/328898.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -105,3 +105,7 @@ Four options can be changed on the site:
 -	__Content items order:__ select the order to display the versions of the diagrams on the site.
 
 ![vb 13 jpg](//images.ctfassets.net/6mz8d8cle1nl/4CGFcMUOKaMfvnNcP1eReY/482cf383869577d507ea456d7c62cccb/vb_13_jpg.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

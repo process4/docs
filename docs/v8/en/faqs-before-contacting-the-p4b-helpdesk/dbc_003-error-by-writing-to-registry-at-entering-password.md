@@ -22,3 +22,7 @@ You should try to log in to Windows under Administrator, start DBConfig
 and enter the password. After that, you will be able to continue working
 with DBConfig under the previous user.
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

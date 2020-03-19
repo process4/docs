@@ -53,3 +53,7 @@ Datenbank nach Microsoft Word exportiert werden soll.
 Bevor Sie den DocumentComposer starten schließen Sie bitte alle Ihre
 Microsoft Word Dokumente, um mögliche Probleme zu vermeiden, die
 auftreten können während Sie das Dokument editieren.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

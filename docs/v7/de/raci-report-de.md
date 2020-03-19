@@ -21,3 +21,7 @@ In diesem Fenster können Sie den Setnamen und die Beschreibung definieren und S
 Wählen Sie die gewünschte Unit(s) von welchen Sie RACI Daten exportieren wollen. Der Export kann nur durchgeführt werden für Daten einer ausgewählten Unit in der gleichen absteigenden Hierarchie. Keine parallelen Units können gleichzeitig ausgewählt werden für den Export-Prozess. 
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

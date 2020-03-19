@@ -15,3 +15,6 @@ values 1,2,3 etc. are allowed.
 ![](//images.ctfassets.net/utx1h0gfm1om/2xQlj4yGnCuaGueuI46CSy/9181c94c593202e9d39e8f6a290b4e1f/329572.png)
 
  
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

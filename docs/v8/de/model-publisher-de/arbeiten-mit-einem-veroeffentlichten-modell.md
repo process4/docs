@@ -18,3 +18,7 @@ Um die Publikation auf dem Computer zu öffnen, ohne dass Modeler installiert is
 Wenn die Site nach der Installation von node.js nicht erreichbar ist, schließen Sie den Browser und führen Sie die start-site.bat erneut aus dem Ordner aus.
 
 ![48](//images.ctfassets.net/6mz8d8cle1nl/2xI36tbMzXcWJXpqLS6IyQ/dc1fc1365a70f4d29e5d187565af93c2/48.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

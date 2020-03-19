@@ -12,3 +12,7 @@ Aktivieren Sie diese Option, wenn Sie Diagramme im letzten genehmigten Status ve
 
 Wenn Sie die Veröffentlichungseinstellungen ändern möchten, klicken Sie auf __Next__ und ändern Sie die erforderlichen Einstellungen. Bei der inkrementellen Veröffentlichung werden neue Einstellungen nur auf aktualisierte Elemente angewendet.
 Wenn Sie die Veröffentlichungseinstellungen nicht ändern müssen, klicken Sie auf der aktuellen Seite einfach auf __Finish__. Der Veröffentlichungsprozess für die Aktualisierung wird gestartet.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

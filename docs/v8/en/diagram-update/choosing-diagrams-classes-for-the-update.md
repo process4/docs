@@ -18,3 +18,7 @@ The process starts when you click the ***Next*** button. The update is
 performed as an additional Visio process in the background. After the
 update is complete, you can see any error messages by clicking on
 the ***Log*** button in the following window.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

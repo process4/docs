@@ -25,3 +25,7 @@ previous step of this dialog.
 ![](//images.ctfassets.net/utx1h0gfm1om/20ffVaQJIoE4sYE0emICKQ/e2063d4c9fec24234a05bd03deb68bcf/328313.png)
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

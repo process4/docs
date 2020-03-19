@@ -263,3 +263,6 @@ Diagramm gespeichert oder nachdem die Datenbank aktualisiert wurde (z.B.
 mit der Schaltfläche Aktualisieren im Little Repository).
 
 ![image](//images.ctfassets.net/6mz8d8cle1nl/4yyjPqFY9R26H8CfOqc2aC/ac4fcd6c89781c3e62481302e86debbd/image.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

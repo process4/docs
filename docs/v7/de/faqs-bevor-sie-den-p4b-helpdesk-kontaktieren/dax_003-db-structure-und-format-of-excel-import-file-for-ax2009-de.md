@@ -239,3 +239,7 @@ Otherwise (if values of checked layers are empty or "0") and the value
 in excel-column **Enabled** (column 11) is not "Yes" (or "Ja"), the
 property **Availability** (db name is **Active**) receives the value Not
 available.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

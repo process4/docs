@@ -96,3 +96,7 @@ Using this option it is possible to display the links on the first level of an o
 The number of columns you want to display varies depending on the number you set in the option. For every column a new __{LinkX}__ is created which can be altered to display desired columns.
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

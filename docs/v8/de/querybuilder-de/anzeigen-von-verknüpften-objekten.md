@@ -93,3 +93,7 @@ Mit dieser Option ist es möglich, die Verknüpfungen auf der ersten Ebene eines
 Die Anzahl der anzuzeigenden Spalten hängt von der in der Option festgelegten Anzahl ab. Für jede Spalte wird ein neues __{VerknüpfungX}__ erstellt, das geändert werden kann, um die gewünschten Spalten anzuzeigen.
 
 ![9-DE-15](//images.ctfassets.net/6mz8d8cle1nl/403QcPrP1mSOEC08i4QEIE/c3f60109493f6ed8ed47f20de784c9fb/9-DE-15.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

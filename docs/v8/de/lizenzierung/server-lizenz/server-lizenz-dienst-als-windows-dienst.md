@@ -12,3 +12,7 @@ Machen Sie die Liste der Services im Computer Management auf und finden Sie eine
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5nOxLD2omWCYO0eUOs2SEA/b78549d0f6d863165c6a15580d3bbff4/1018722.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

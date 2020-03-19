@@ -33,3 +33,7 @@ master shape) on the diagram. So there are 2 different shapes for one
 class: your old shape and your new shape. You should delete old shapes
 in the cash (**document stencil**) to work properly with process4.biz.
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

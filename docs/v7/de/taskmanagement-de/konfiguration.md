@@ -18,3 +18,7 @@ Wenn Sie auf „Kontakte laden“ drücken ist die Liste aus dem Adressbuch der 
 
 „Das Löschen eines Tasks in p4b sollte es automatisch auch aus dem Exchange-Server löschen“ ist für das automatische Löschen eines Tasks aus dem Exchange wenn das verknüpfte Task in p4b gelöscht wird. Wenn ein Task aus dem p4b gelöscht wird, versucht das p4b es aus dem Exchange zu löschen. Das Ergebnis dieses Löschens wird das Löschen in p4b nicht beeinflussen. 
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

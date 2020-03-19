@@ -88,3 +88,6 @@ See: [Coloring Data Fields](property-group-and-property)
 Over the [system properties](system-properties), you can control the
 behavior of the properties of the objects of the respective class in
 specific situations.
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

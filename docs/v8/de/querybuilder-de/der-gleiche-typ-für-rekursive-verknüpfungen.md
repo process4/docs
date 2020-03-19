@@ -19,3 +19,7 @@ Das wird auch im QueryBuilder gezeigt:
 
 ![](//images.ctfassets.net/6mz8d8cle1nl/24dUjgU7WAxc3kERpTulUK/042783f14120046caebe60ecaa88d3c4/13-03-2019_13-52-20.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

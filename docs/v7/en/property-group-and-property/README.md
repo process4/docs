@@ -254,3 +254,6 @@ property is listed.
 ![](//images.ctfassets.net/utx1h0gfm1om/5jn7MRQeRy2Q8Eg6AusMUI/53e619e47f02b156365647875237cf51/329226.png)
 
 *Multiple selection* 
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

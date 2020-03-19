@@ -53,3 +53,7 @@ shapes.
  
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5RoXaag2vm4ukAiiOmcK8g/0d47cf3be99876b41e325f137c748262/329479.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

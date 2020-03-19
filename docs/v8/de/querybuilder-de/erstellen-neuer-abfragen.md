@@ -102,3 +102,7 @@ Abfragen mittels rechter Maustaste kopieren, ausschneiden und einfügen.
 
 ![6-DE-15](//images.ctfassets.net/6mz8d8cle1nl/41RP5XIuo84y2mOemAGekG/a8ee7fc90f66c5898ad34aecf0cb9478/6-DE-15.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

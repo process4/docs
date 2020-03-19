@@ -80,3 +80,7 @@ shape-spezifischen Attribut.
 
 ![16-08-2019 10-15-08](//images.ctfassets.net/6mz8d8cle1nl/66HhC1YykKzyBPWxdJa3CE/25816fd0b7cb6231c7e9fee695b7ccd2/16-08-2019_10-15-08.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

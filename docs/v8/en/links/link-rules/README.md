@@ -98,3 +98,6 @@ Designer](database-designer).
 ![](//images.ctfassets.net/utx1h0gfm1om/3Ret4a5t5u0sWQC8E6qQSO/2a9e2c924b44c3f6a8da7fcc54ea0f70/328830.png)
 
 *Creating a new link rule over the properties window of a class.*
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

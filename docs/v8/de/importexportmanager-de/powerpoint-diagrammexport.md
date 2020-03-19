@@ -191,3 +191,7 @@ exportierten Diagramme automatisch in Form einer
 PowerPoint-Präsentation.
 
 ![5-DE-8](//images.ctfassets.net/6mz8d8cle1nl/3SXvKLdBW8qYcYkI8UIQWe/34d003f6d0680c84c8478a1148706b27/5-DE-8.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

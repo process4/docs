@@ -233,3 +233,7 @@ wo man dann die Verknüpfung zu Objekten der Klasse *Aktivität* und
 Klassen werden in 2 separaten Spalten angezeigt.  
 ![](//images.ctfassets.net/utx1h0gfm1om/2e6a558eTa84KI6iCG0c6a/8aaf7bd03c4a9504fc311f5a2af8950a/1018681.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

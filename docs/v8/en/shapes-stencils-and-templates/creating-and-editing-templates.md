@@ -188,3 +188,7 @@ To edit existing templates, proceed as follows:
         SharePoint, check them in again.
 5.  Run the Wizard [updating diagrams](diagram-update), to apply your
     changes to already existing charts.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

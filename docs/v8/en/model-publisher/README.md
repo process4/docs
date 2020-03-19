@@ -10,3 +10,7 @@ For the creation of a web portal, an available IIS is necessary. Make sure that 
 - [Updating a publication](updating-model-publication)
 - [Deleting publication](deleting-model-publication)
 - [Work with published model on the website](working-with-published-model)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -137,3 +137,6 @@ These two options are available to continue the dialogue:
 -   If you click "Finish", the selected report is immediately generated.
     In this case an already stored set is used. This initiates the
     export process with the existing set settings.
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

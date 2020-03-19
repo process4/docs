@@ -31,3 +31,7 @@ Modeler too.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/6BvnByGX9mUuu2IOouWeS0/c0aa150b88c2d68f4c2159cdf92771ae/329504.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -28,3 +28,6 @@ When you change some values of Shape properties in the Org chart, they
 are also changed in process4.biz and vice versa. 
 
 ![](//images.ctfassets.net/utx1h0gfm1om/7ln8VxEHYcmIKYCwgG2YWC/a796381c8a9aedffa553addd6d9a9d5a/328758.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

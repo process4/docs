@@ -1,1 +1,4 @@
 Wenn Diagramme im SharePoint sind, dann auf Diagramm speichern, überprüfen wir jede Diagramm Vorlage ob Klassen dieses Vorlage Objektes erlaubt für die Synchronisierung sind unter Diagramm Synchronisierung Regel und haben __SP AutoBind__ und __ShareData__ erlaubt und sammeln alle diese Vorlagen. Wenn wir eine solche Vorlage haben, dann führen wir die Synchronisierung durch und erneuern die Vorlage um sie in einer SharePoint Liste zu speichern. So wird diese Vorlage mit einem Element aus der SharePoint Liste verknüpft. 
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

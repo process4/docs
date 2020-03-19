@@ -309,3 +309,7 @@ thus enabling the use of organization diagrams.
 This property is used for the [extension
 module](process4.biz_Extension_Modules) [SureStep](file:///S:/confluence/pages/createpage.action?spaceKey=DOC&title=SureStep&linkCreation=true&fromPageId=3637340).
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

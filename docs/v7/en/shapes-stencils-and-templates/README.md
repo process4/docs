@@ -152,3 +152,6 @@ Designer](database-designer), you can select the following options under
 *![](//images.ctfassets.net/utx1h0gfm1om/5fySXZ1j3i0IyQ2GqGCQ0s/cc70db7c2288916a95691d0ce0ea9542/328728.png)*
 
 *Two options for editing templates and stencils*
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

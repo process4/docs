@@ -17,3 +17,6 @@ informs you on which properties will be lost during the change:
 ![](//images.ctfassets.net/utx1h0gfm1om/5xE4grEL3aKqIaWoawUgwW/16c1af0a4ad4904d981149cde5ff8c21/329095.png)
 
 </div>
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

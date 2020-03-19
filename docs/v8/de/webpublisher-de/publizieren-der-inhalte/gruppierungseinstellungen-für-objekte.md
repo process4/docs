@@ -66,3 +66,7 @@ Portal standardmäßig zugeklappt.
 
 ![14-DE-1](//images.ctfassets.net/6mz8d8cle1nl/2HUP5VFjcA4SWmeWomoQe4/dcb38d2e56990af7a17dddb8ba6adb37/14-DE-1.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

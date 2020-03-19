@@ -45,3 +45,7 @@ Specify the properties that will be used as Activity type in the RACI report.
 Define the objects that need to be presented and its order in the RACI report. 
 
 ![RACI rep](//images.ctfassets.net/6mz8d8cle1nl/1CfC1zIeiw80mZmM2kgEDL/41a20d711078f04e3d67907ba85863fa/RACI_rep.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

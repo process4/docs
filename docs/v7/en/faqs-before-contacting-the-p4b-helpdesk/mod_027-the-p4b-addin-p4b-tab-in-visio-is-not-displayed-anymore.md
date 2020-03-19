@@ -68,3 +68,7 @@ After that process4.biz menu will appear in Visio
 ![](//images.ctfassets.net/utx1h0gfm1om/vcCpwsPWuG6keGgoaQQcE/04f91638b6015d318b37a6906d8203ad/328102.png)
 
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

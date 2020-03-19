@@ -18,3 +18,6 @@ There is also one more option that may potentially affect the p4b
 function:
 
 ![](//images.ctfassets.net/utx1h0gfm1om/1Md9kMoWzOEM4QIMYOMcSk/6eb785ab3748ce18fd5483147219b53f/328065.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -21,3 +21,7 @@ der angegebenen Periode gehören.
   
 ![24-DE-3](//images.ctfassets.net/6mz8d8cle1nl/3hdDED3dZCG8CqEkC6aYgC/ab40e9429dcc86c21ca66711c21593dd/24-DE-3.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

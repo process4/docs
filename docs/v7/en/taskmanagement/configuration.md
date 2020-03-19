@@ -38,3 +38,7 @@ from exchange when a linked task is deleted in p4b. So when a task is
 deleted in p4b, p4b tries to delete the task from exchange as well. The
 result of that deletion will not affect the initial task deletion in
 p4b.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

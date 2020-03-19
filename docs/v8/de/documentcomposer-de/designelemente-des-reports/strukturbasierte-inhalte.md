@@ -13,3 +13,6 @@ Im Report soll nun automatisch eine Struktur aus den Prozessobjekten erstellt we
 Hier nun noch ein Ausschnitt aus dem Report, der das Inhaltsverzeichnis zeigt, dies zeigt die Struktur.
 
 ![image](//images.ctfassets.net/6mz8d8cle1nl/4ScpQnbcimUp0ftEaVYFCI/c11de5871c7f89ed14563966eab5b567/image.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

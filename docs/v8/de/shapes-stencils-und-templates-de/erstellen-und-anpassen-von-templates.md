@@ -206,3 +206,7 @@ Um bestehende Templates zu bearbeiten, gehen Sie wie folgt vor:
     Diagrammen](Aktualisieren_von_Diagrammen) aus, um Ihre Änderungen
     auf bereits bestehende Diagramme anzuwenden.
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

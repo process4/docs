@@ -47,3 +47,7 @@ werden:
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5MG8YeNhjaWmO6cUAAqc2o/08c4f27cea3e4eaecf71ad0723edc823/1017723.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

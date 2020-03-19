@@ -65,3 +65,7 @@ cases during a release change even if our consultants helped you to
 design diagrams, shapes, stencils, templates, stylesheets, and reports
 with a former release. In all these cases we offer you our support with
 charged consulting services and instructions.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

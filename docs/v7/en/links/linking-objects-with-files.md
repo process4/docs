@@ -125,3 +125,7 @@ repeat step 4 and 5 for all other files.
 ![](//images.ctfassets.net/utx1h0gfm1om/4n8AuKYk76ke8iUEii6oYc/47283b54e5c806f34161b9c6e619ff33/328804.png)
 
 *File links of the object "Send offer".*
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -104,3 +104,7 @@ update. This window can be closed. The updated Excel value appears now
 in the Visio shape data and in the process4.biz shape-specific property.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5e7f1nHG6kmOSAAwWEECaM/18549b3b983152ef1c492cd17a6d4d50/328174.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

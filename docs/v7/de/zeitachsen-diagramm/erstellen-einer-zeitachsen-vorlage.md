@@ -24,3 +24,7 @@ die so eine Zeitachsen-Vorlage und ein Stencil darin beinhalten.
 ![](//images.ctfassets.net/utx1h0gfm1om/1QZwvC0SlO2YCK6Q2aISyq/ae6d8b76d60043d83fcdea348f7f51b9/1018795.png)  
   
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

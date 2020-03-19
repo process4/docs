@@ -41,3 +41,7 @@
 ![](//images.ctfassets.net/utx1h0gfm1om/6pSHbkvVO8GIg0mOOOSCAa/1ac6e5c6de746c5a2b791e2f668cb8c5/328516.png)
 
 *Step 4*
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

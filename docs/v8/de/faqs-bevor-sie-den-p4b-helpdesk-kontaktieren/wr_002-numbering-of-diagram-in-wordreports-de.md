@@ -44,3 +44,7 @@ Report.
     Objects are not numbered and presented as bullet-style paragraphs.  
     ![](//images.ctfassets.net/utx1h0gfm1om/1JyxqU42coeQsOAIoW0QAe/8075cbf56e7ef91feb573393af546772/328375.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

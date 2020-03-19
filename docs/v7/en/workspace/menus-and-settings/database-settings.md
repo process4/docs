@@ -348,3 +348,6 @@ available at least in this language. When you add a new language and
 then change to this new language, objects not yet translated are still
 shown in the previous default language; this is necessary so that no
 empty names or properties exist in the database.
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

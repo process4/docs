@@ -205,3 +205,7 @@ Dialogfensters wird der Importvorgang beendet.
 
 ![4-DE-7](//images.ctfassets.net/6mz8d8cle1nl/5RYO9kgHniC6IskGI8M68A/553777754f6ee60acd71bb7ca2a32af0/4-DE-7.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -235,3 +235,7 @@ Approval status dialog window but won't make it unapproved.
 \* **changed** means e.g.: name change, new object link is created, new
 link to a diagram created, some other property is changed
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

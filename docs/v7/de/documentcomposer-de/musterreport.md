@@ -8,3 +8,7 @@ Kapiteln.
 ![](//images.ctfassets.net/utx1h0gfm1om/4H6bLSicDYAGQ2S0issEY6/e27825d83ec885f23f657d3ea1602069/1017975.png)  
 ![](//images.ctfassets.net/utx1h0gfm1om/2ZlQ47DSLuo4USOKEy62KW/59c8ec55a83e36ff736897186e8ce7dd/1017979.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -18,3 +18,7 @@ condition "is empty" for the column "Linked object" (i.e. {Link} -&gt;
 
 ![](//images.ctfassets.net/utx1h0gfm1om/4AuYg946dGIuci22UiUcSk/ccf5fd7b8916095429314f0cbcb37540/329215.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

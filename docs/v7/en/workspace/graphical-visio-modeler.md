@@ -252,3 +252,6 @@ with the Update button in Little repository).
 ![](//images.ctfassets.net/utx1h0gfm1om/5UK2hXZstyWweMwwoa46EM/608fef8c6997337c5a6b54b5e29b61d0/329496.png)
 
 ![](//images.ctfassets.net/utx1h0gfm1om/3nEVbeU5IccQA8W2sCM46G/b6d5b8845027ae06490c8a9ecb2a32ec/329576.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

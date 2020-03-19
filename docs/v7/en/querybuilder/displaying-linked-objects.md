@@ -179,3 +179,7 @@ which can be altered to display desired columns.
 ![](//images.ctfassets.net/utx1h0gfm1om/403QcPrP1mSOEC08i4QEIE/35356c8e1d7f07a88b0aad28a0a99cca/329225.png)
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

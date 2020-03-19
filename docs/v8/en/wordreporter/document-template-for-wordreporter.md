@@ -241,3 +241,6 @@ diagram will resemble the following picture: 
 ![](//images.ctfassets.net/utx1h0gfm1om/4pMaS7ZLocYak4YuuEwMgM/ae3a0f334062a616cf33bc23ac0ad85b/328249.png)
 
  
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

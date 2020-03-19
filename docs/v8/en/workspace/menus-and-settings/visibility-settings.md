@@ -31,3 +31,7 @@ To see which items are hidden for a user (for example to show them)
 again, you can use the [unit filter](search-and-filters ).
 
 ![](//images.ctfassets.net/utx1h0gfm1om/4I6OR3Rw5qOkIIcAaAWGwy/55f0800faccd4e66467c04a153fafb65/329474.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

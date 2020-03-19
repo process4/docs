@@ -143,3 +143,7 @@ This License Server address should be specified in **Client settings**
 in the Modeler.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/4i6kZuJoZiwGmWuAco6wSs/9817a390183df9f045faca0980cea481/329415.png)
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

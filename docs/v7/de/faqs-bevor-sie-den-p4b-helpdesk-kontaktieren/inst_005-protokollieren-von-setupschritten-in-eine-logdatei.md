@@ -18,3 +18,7 @@ Befehl könnte z.B. so aussehen: ****msiexec
 diese Art und Weise wird das Setup gestartet und die Installation, in
 einer Datei mit dem angegebenen Namen im Ordner des Setups,
 protokolliert.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

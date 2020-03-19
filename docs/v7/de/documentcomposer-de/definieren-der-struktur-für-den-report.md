@@ -45,3 +45,7 @@ oder NAV Referenzmodell).
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5pMmMZrucouQ2g8Go4qI0Y/6ddad7cdb093663154745bec2e817d03/1017528.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -124,3 +124,7 @@ You can export the configured view of the link matrix to Excel: Click on
 Professional Edition and provided that the license for the [Query
 Builder](querybuilder) has been activated.
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

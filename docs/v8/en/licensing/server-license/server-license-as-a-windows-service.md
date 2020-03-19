@@ -22,3 +22,7 @@ window change startup type from Manual to Automatic and press button
 
 ![](//images.ctfassets.net/utx1h0gfm1om/4SaHZzLtAkMg2cgOkk8qom/f48710871d4e845f4088037da0ec01e4/329491.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

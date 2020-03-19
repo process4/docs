@@ -34,3 +34,7 @@ Now when we drop the shape "B" onto the diagram, it belongs to the class
 ![](//images.ctfassets.net/utx1h0gfm1om/5Ad2lmYwrm0KqAoKIoWQCS/51a3cf2152c1d23131818b94b351bcb6/328712.png)
 
  
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

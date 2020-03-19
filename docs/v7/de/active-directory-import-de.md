@@ -26,3 +26,7 @@ Wenn der Import fertig ist im Repository in der entsprechenden Klasse wird eine 
 
 ![](//images.ctfassets.net/utx1h0gfm1om/7kis3056piGCk80SaE0kwQ/eefab47f40b430f7a0d58bd846477cf5/329570.jpg)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

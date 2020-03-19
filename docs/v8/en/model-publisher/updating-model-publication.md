@@ -12,3 +12,7 @@ Enable this option if you want to publish diagrams in their last approved status
 
 If you want to change publication settings then click __Next__ and change necessary settings. For the Incremental publication, new settings will be applied only to updated items. 
 If you do not need to change publication settings then just click __Finish__ on current page and update publication process will start. 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

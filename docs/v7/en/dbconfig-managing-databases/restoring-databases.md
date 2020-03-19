@@ -65,3 +65,6 @@ Database Connections)
 -   Stencil Path: select the destination folder for the process4.biz
     stencils of the database to be restored.
 -   To perform the restore, click Restore.
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

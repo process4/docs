@@ -126,3 +126,7 @@ Platz ziehen.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/2FvGz5bYbCQyO8sk6y6eCa/59b46b428e0b5671bc132103329395f3/1017942.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -41,3 +41,7 @@ automatisch ab.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/6L7YHpJW00iaEgMCeyII0q/0e55817b70b529a7bddedb15e06c1c8b/1018437.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

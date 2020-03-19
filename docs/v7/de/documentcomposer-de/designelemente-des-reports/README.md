@@ -156,3 +156,7 @@ beinhaltet sein sollen.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/2kJNihwM6gAkmGQmoqM8eW/7434691b40960cbdd51890d0f0dd6bc8/1017451.png)
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

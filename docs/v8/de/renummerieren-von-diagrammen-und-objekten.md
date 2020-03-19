@@ -115,3 +115,7 @@ und 1.B, 2.A bei der Richtung A &lt; B (B zu A)). Wenn die Richtung
 Sie standardmäßig von links nach rechts und von oben nach unten auf dem
 Diagramm durchnummeriert.
 
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

@@ -182,3 +182,6 @@ angezeigt:
 Neu hinzugefügte Objekte/Diagramme  werden mit einem Plus markiert, entferne Objekte/Diagramme mit einem Kreuz und bearbeitete Objekte/Diagramme mit einem Haken.  Beim Klicken auf das Objekt/Diagramm kann der Benutzer mehr detaillierte Informationen über die Veränderungen sehen. Es wird in Form einer Tabelle mit 3 Spalten angezeigt: Name des geänderten Attributs, alter Wert des Attributs und neuer Wert des Attributs. Zusätzlich zeigt der Version Delta Report auch Informationen über den Namen der Datenbank, aus welcher der Report erstellt wurde, den Name und das Datum der vergleichbaren Version und das Datum der Report Erstellung. 
 
 ![versionDR3](//images.ctfassets.net/utx1h0gfm1om/4Orube9sscGSIFC5ITyawJ/34a50390c09c1182f7ed259fe3579fcc/versionDR3.png) 
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

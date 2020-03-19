@@ -21,3 +21,6 @@ which also have a reference to appropriate folders that include such a
 timeline template and a stencil.
 
 ![](//images.ctfassets.net/utx1h0gfm1om/5SSUPch7OgM68OW2IKkEyO/cbf7d2a75d1eb317f50107fb9e5b8c31/328345.png)
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

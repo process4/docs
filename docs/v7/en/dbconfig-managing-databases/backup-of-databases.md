@@ -81,3 +81,7 @@ from the backup:
 -   Restoring to a newly defined storage location: the database is
     created in a new profile. Select in which folder the backed-up
     diagrams and stencils are to be stored for the new profile.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

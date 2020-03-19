@@ -26,3 +26,7 @@ In the AD Tree Selector user can specify which users, groups and computers shoul
 ![AD imp3](//images.ctfassets.net/utx1h0gfm1om/1ISmxf2JY5bHal19IypKQn/4a13de4a51173a396f3cec17da03fbd9/AD_imp3.jfif)
 
 When the Import will be finished in the repository in the corresponding class will be created list of objects imported from the Active Directory. Available properties of this objects will imported too such as e-mail, phone number, address and other.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

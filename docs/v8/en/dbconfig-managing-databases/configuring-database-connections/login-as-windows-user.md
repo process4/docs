@@ -20,3 +20,6 @@ console whether a user has these rights.
 4.  Then activate the DBConfig "Use the integrated security of Windows
     NT" and click Test. If the connection to the database is successful,
     you can now log into the database  
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

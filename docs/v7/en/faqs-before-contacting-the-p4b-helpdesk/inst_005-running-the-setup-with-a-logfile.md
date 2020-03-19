@@ -14,3 +14,7 @@ prompt or Win+R-&gt;"cmd"-&gt;Enter. The full command could look e.g.
 like this: ****msiexec /i **D:\\Install\\p4b\\process4biz\_2005\_51.msi
 /L\*v setup.log**. In this way the setup is started and the installation
 protocolled in a file with the given name in the folder of the setup.
+
+<hr style="padding-top:2rem" />
+<a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
+<a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>
