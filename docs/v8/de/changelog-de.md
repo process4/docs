@@ -1,3 +1,5 @@
+- [V.8.0.6.36557 (27.04.2020)](#v806)
+- [V.8.0.5.36272 (13.03.2020)](#v805)
 - [V.8.0.4.36108 (20.02.2020)](#v804)
 - [V.8.0.3.36003 (07.02.2020)](#v803)
 - [V.8.0.2.35878 (23.01.2020)](#v802)
@@ -14,6 +16,17 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Changelog
+
+### V.8.0.6.36557 (27.04.2020) :id=v806
+
+- Zum Erstellen eines ApprovalHistory-Snapshots ist es nicht mehr erforderlich, dass der Benutzer zur Gruppe der Administratoren gehört
+- Tags-Propery zu QueryBuilder hinzugefügt (vorausgesetzt, Tags sind für Systemklassen aktiviert) 
+
+
+### V.8.0.5.36272 (13.03.2020) :id=v805
+
+- Fixed: EULA-Akzeptanz-Algorithmus funktionierte manchmal auf einigen Systemen fehlerhaft
+
 
 ### V.8.0.4.36108 (20.02.2020) :id=v804
 
