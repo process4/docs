@@ -253,6 +253,7 @@ durchführen:
     Sie Administrationsberechtigungen haben.
 -   Ändern der Klasse von Objekten und Diagrammen in der Unit, in der
     sie Administrationsberechtigungen haben.
+-   SharePoint-Synchronisierung konfigurieren
 
 Die Benutzer einer individuellen Benutzerrolle mit Administration-
 Berechtigung können aber nicht alle Operationen durchführen: es gibt

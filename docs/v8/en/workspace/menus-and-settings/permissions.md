@@ -224,6 +224,7 @@ administrative permission can perform the following tasks:
     administrative permissions.
 -   Change the class of objects and diagrams in the unit in which you
     have administrative permissions.
+-   Configure SharePoint Synchronization    
 
 The users with an individual user role with Administration authorization
 cannot perform all operations: there are tasks that can be performed

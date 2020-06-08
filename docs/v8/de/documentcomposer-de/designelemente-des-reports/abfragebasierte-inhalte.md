@@ -15,21 +15,23 @@ Dazu haben wir eine Abfrage "Prozess Gruppe Diagramme" mit Hilfe des
 Abfragegenerators (QueryBuilder) erstellt, welche die Liste mit den
 Namen und der ID der Diagramme erstellt:  
   
-![](//images.ctfassets.net/utx1h0gfm1om/3iHUjNBkViOQuACeWsg06c/ca62865335a5af318a908bcd241dbd45/1017919.png)  
+![abi1](//images.ctfassets.net/6mz8d8cle1nl/7CplDDcebEQIxx6dfMcbtU/5c1dc5691bf5a9917b968f0ded8d4830/abi1.png)
 Dann wollen wir alle Prozess-Objekte mit einigen ihrer Attribute für
 jedes "Prozess Gruppe Diagramm" auflisten. Dazu haben wir eine andere
 Abfrage " Prozesse von einer Prozessgruppe" erstellt. Die Abfrage
 verwendet einen Parameter, um alle Objekte aufzulisten, die auf
 Diagrammen mit der ID aus der Abfrage " Prozess Gruppe Diagramme"
 verwendet werden.  
-![](//images.ctfassets.net/utx1h0gfm1om/1pJtxJCw3KigWMgSU2oYGs/1c263ca3d35ea993c051995ffc457769/1017425.png)  
+
+![abi2](//images.ctfassets.net/6mz8d8cle1nl/4dvbCCrmdf1sLdGQk5vzEj/2f4428c0d2809d08c6c24e3f7fa7fe06/abi2.png)
 Anschließend wollen wir alle Child-Diagramme auflisten, die
 entsprechende Prozesse mit Hilfe der RACI-Methode beschreiben. Die
 Abfrage " Aktivitäten Verantwortlichkeiten" enthält auch einen
 Parameter, um nur solche Objekte aufzulisten, die auf dem RACI-Diagramm
 mit der entsprechenden ID auch wirklich verwendet werden. Im Parameter
 "ID1" kann der Name des RACI-Diagramms eingetragen werden.  
-![](//images.ctfassets.net/utx1h0gfm1om/60oafVP3ckUs4cyqWicCaO/563d75fa3c903e1afae14a3796db3565/1017441.png)  
+
+![abi3](//images.ctfassets.net/6mz8d8cle1nl/4lNpSPXVGgCdDS7LBLTNKe/4327a15bf24a25909b4a63150293c4d2/abi3.png)
 Jetzt können wir einen abfragebasierten Report im DocumentComposer -
 Wizard definieren. Die Struktur des Reports wird aus dem speziellen
 Handbuch-Diagramm übernommen. Für das Kapitel "Prozess Gruppe Diagramme"
@@ -38,12 +40,12 @@ wir eine Basis-Abfrage aus, auf der unser Report basieren soll. In
 unserem Fall ist es die Abfrage "Prozess Gruppe Diagramme", die alle
 Diagramme mit Prozessen auflistet: " (QM) 0. Entwicklung und Umsetzung
 eines QM-Systems", "(RACI) After Sales Prozess", "Vertrieb".  
-![](//images.ctfassets.net/utx1h0gfm1om/zkK6lcTfFIgWkggS6Gsys/e018334a26d8aa7b20b9a7c24a3f12a6/1017635.png)  
+![abi4](//images.ctfassets.net/6mz8d8cle1nl/5iuwUBg6cpbXUkU0IXZBkW/9287b4c78b8f1ed145ed44bd6fab7d35/abi4.png)
 Eine wichtige Bedingung: als Basis-Abfrage können nur solche Abfragen
 verwendet werden, die Diagramme (und keine Objekte) auflisten, d.h. im
 QueryBuilder (Abfragegenerator) den Quelltyp "Allgemeines Diagramm"
 haben.  
-![](//images.ctfassets.net/utx1h0gfm1om/2Nl7gyM42IEieEAkMeKqYs/fc7e45af82ed7ecb7e1fb3bb4a7d9787/1017940.png)  
+![abi5](//images.ctfassets.net/6mz8d8cle1nl/79UurdMw9EkEgdT4UdcYD7/8cd817c724283549c9d2a77fe260291b/abi5.png)
 Wir aktivieren im DocumentComposer - Wizard folgende Optionen:  
 • Erstellen einer Berichtserie  
 Diese Option erlaubt es mehrere Ausgaben eines selben Reports mit

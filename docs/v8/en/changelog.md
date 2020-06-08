@@ -22,11 +22,9 @@
 - Creating an ApprovalHistory snapshot no longer requires user to belong to administrators group
 - Added Tags property to QueryBuilder (provided Tags is enabled for system classes) 
 
-
 ### V.8.0.5.36272 (13.03.2020) :id=v805
 
 - Fixed: EULA acceptance algorithm sometimes worked incorrectly on some systems
-
 
 ### V.8.0.4.36108 (20.02.2020) :id=v804
 

@@ -122,6 +122,7 @@ If you are planning to use ApprovalHistory extension, make sure that the __IIS M
 The following browsers are supported for publications created with the new Model Publisher: 
 - Google Chrome (61.0.3163.100)
 - Firefox (65.0.2)
+- Microsoft Edge (81.0.416.60)
 
 Publications created with Web Publisher support only IE11.
 

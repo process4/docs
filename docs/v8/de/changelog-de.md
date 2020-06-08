@@ -22,7 +22,6 @@
 - Zum Erstellen eines ApprovalHistory-Snapshots ist es nicht mehr erforderlich, dass der Benutzer zur Gruppe der Administratoren gehört
 - Tags-Propery zu QueryBuilder hinzugefügt (vorausgesetzt, Tags sind für Systemklassen aktiviert) 
 
-
 ### V.8.0.5.36272 (13.03.2020) :id=v805
 
 - Fixed: EULA-Akzeptanz-Algorithmus funktionierte manchmal auf einigen Systemen fehlerhaft

@@ -113,6 +113,7 @@ Wenn Sie die Erweiterung ApprovalHistory verwenden möchten, stellen Sie sicher,
 Folgende Browser sind für Publikationen aus dem neuen Model Publisher unterstüzt: 
 - Google Chrome (61.0.3163.100)
 - Firefox (65.0.2)
+- Microsoft Edge (81.0.416.60)
  
 Publikationen, welche mit dem Web Publisher erstellt wurden, unterstützen höchstens IE11.
 
