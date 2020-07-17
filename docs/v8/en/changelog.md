@@ -1,3 +1,4 @@
+- [V.8.0.7.36862 (16.07.2020)](#v807)
 - [V.8.0.6.36557 (27.04.2020)](#v806)
 - [V.8.0.5.36272 (13.03.2020)](#v805)
 - [V.8.0.4.36108 (20.02.2020)](#v804)
@@ -16,6 +17,12 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Release Notes
+
+### V.8.0.7.36862 (16.07.2020) :id=v807
+
+- Fixed: Queries in QueryBuilder were incorrectly shown. Note: queries created in v8.0.6 must be recreated in v8.0.7
+- Fixed: Labels in WebPublish Wizard worked vice versa
+- Improved: ApprovalHistory can now open links with "current date" chosen by default
 
 ### V.8.0.6.36557 (27.04.2020) :id=v806
 

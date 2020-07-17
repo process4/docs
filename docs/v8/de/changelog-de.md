@@ -1,3 +1,4 @@
+- [V.8.0.7.36862 (16.07.2020)](#v807)
 - [V.8.0.6.36557 (27.04.2020)](#v806)
 - [V.8.0.5.36272 (13.03.2020)](#v805)
 - [V.8.0.4.36108 (20.02.2020)](#v804)
@@ -16,6 +17,12 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Changelog
+
+### V.8.0.7.36862 (16.07.2020) :id=v807
+
+- Fixed: Abfragen im QueryBuilder wurden fälschlicherweise angezeigt. Hinweis: Abfragen, die in v8.0.6 erstellt wurden, müssen in v8.0.7 neu erstellt werden.
+- Fixed: Labels im WebPublish-Wizard funktionierten umgekehrt
+- Verbessert: ApprovalHistory kann jetzt Links öffnen, bei denen standardmäßig "aktuelles Datum" ausgewählt ist
 
 ### V.8.0.6.36557 (27.04.2020) :id=v806
 
