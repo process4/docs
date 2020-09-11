@@ -1,3 +1,4 @@
+- [V.8.0.8.37055 (11.09.2020)](#v808)
 - [V.8.0.7.36862 (16.07.2020)](#v807)
 - [V.8.0.6.36557 (27.04.2020)](#v806)
 - [V.8.0.5.36272 (13.03.2020)](#v805)
@@ -18,6 +19,10 @@
 
 ## Changelog
 
+### V.8.0.8.37055 (11.09.2020) :id=v808
+
+- ApprovalHistory: ein Diagramm kann über einen direkten Link geöffnet werden
+
 ### V.8.0.7.36862 (16.07.2020) :id=v807
 
 - Fixed: Abfragen im QueryBuilder wurden fälschlicherweise angezeigt. Hinweis: Abfragen, die in v8.0.6 erstellt wurden, müssen in v8.0.7 neu erstellt werden.
@@ -33,12 +38,10 @@
 
 - Fixed: EULA-Akzeptanz-Algorithmus funktionierte manchmal auf einigen Systemen fehlerhaft
 
-
 ### V.8.0.4.36108 (20.02.2020) :id=v804
 
 - Fixed: Visio stürzt während der Diagramm-Aktualisierung unter Umständen ab
 - Improved: Parsen von Smart-Tags in Diagrammen
-
 
 ### V.8.0.3.36003 (07.02.2020) :id=v803
 
@@ -193,7 +196,6 @@
 - Ein Problem in Bezug auf Kopieren / Einfügen wurde behoben: die Objektnamen werden nun korrekt in allen Sprachen aktualisiert
 - Ein Visio VBA-Skript, um Geister-shapes zu reparieren, ist ab jetzt via helpdesk@process4.biz verfügbar
 
-
 #### QueryBuilder
 
 - Registerkarte „Berechtigungen“ zu Abfrage-Klassen hinzugefügt
@@ -274,13 +276,11 @@
 
 - Ein Problem mit der Sichtbarkeit von Sets im WordReporter wurde behoben
 
-
 #### Anderes
 
 - Beim Start von process4.biz wird nun geprüft, ob VBScript funktioniert, um unerwünschtes Verhalten zu verhindern
 - Ein Problem in DbUpgradeAll wurde behoben: es nimmt nun den Pfad zu dbconfig.xml als Parameter an
 - Ein Problem mit dem QlikView Connector wurde behoben
-
 
 ### V.7.1.6.35216 (13.09.2019) :id=v716
 
@@ -288,7 +288,6 @@
  - Mehrere WordReporter-Fehler behoben
  - Korrigierte Sortierung von Entitäten in WebPublisher und WordReporter Erweiterungen (Objekte/Links werden nun immer alphabetisch sortiert)
  - Verbesserte Synchronisation mit SharePoint
-
 
 ### V.7.1.5.34862 (11.07.2019) :id=v715
 
@@ -303,12 +302,10 @@
 - Improved permission management for sets in all extensions
 - Cached license information will now be removed when restoring a database using DbConfig
 
-
 ### V.7.1.3.33675 (19.11.2018) :id=v713
 
 - Improved unit locking for designers
 - Changelog publishing system introduced
-
 
 ### V.7.1.2.33586 (24.10.2018) :id=v712
 
@@ -316,11 +313,9 @@
 - Links to files are now shown only if the file is in the unit selected to be published
 - Converting diagrams format does not lock the database which leads to improved format conversion in big databases
 
-
 ### V.7.1.1.33332 (01.08.2018) :id=v711
 
 - Implemented runtime check for required Visio component: VBScript Engine
-
 
 ### V.7.1.0.33187 (20.06.2018) :id=v710
 
@@ -328,11 +323,9 @@
 - Improved handling of unmodified diagrams in WebPublisher
 - Button "Approve" is no longer visible if Aproval Management is deactivated
 
-
 ### V.7.0.8.32931 (14.06.2018) :id=v708
 
 - Meta information in installer file updated
-
 
 ### V.7.0.7.32716 (03.06.2018) :id=v707
 

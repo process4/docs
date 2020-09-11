@@ -1,3 +1,4 @@
+- [V.8.0.8.37055 (11.09.2020)](#v808)
 - [V.8.0.7.36862 (16.07.2020)](#v807)
 - [V.8.0.6.36557 (27.04.2020)](#v806)
 - [V.8.0.5.36272 (13.03.2020)](#v805)
@@ -17,6 +18,10 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Release Notes
+
+### V.8.0.8.37055 (11.09.2020) :id=v808
+
+- ApprovalHistory: a diagram can be opened via direct link
 
 ### V.8.0.7.36862 (16.07.2020) :id=v807
 
@@ -38,7 +43,6 @@
 - Fixed: Visio crashes during diagram update
 - Improved: parsing of Smart-Tags in diagrams
 
-
 ### V.8.0.3.36003 (07.02.2020) :id=v803
 
 - Fixed: SharePoint synchronization of links between files and objects
@@ -57,7 +61,6 @@
 - Improved handling different types of files and links in ModelPublisher (e.g. NAV links)
 - Removed warnings for old browsers from log files
 - Fixed: renaming diagrams with F2 did not trigger approval management process
-
 
 ### V.8.0.1.35746 (11.12.2019) :id=v801
 
@@ -193,7 +196,6 @@
 - Fixed an issue regarding copy/paste operations: the object name will now be updated correctly in all languages
 - A Visio VBA script to fix ghost shapes is available through helpdesk@process4.biz now
 
-
 #### QueryBuilder
 
 - Added the missing "Permissions" tab to Query Classes
@@ -274,13 +276,11 @@
 
 - Fixed an issue with set visibility in WordReporter
 
-
 #### Other
 
 - Starting process4.biz will check whether or not VBScript works in order to prevent unintended behaviour
 - Fixed an issue in DbUpgradeAll; it now takes the path to dbconfig.xml as a parameter
 - Fixed an issue with the QlikView connector
-
 
 ### V.7.1.6.35216 (13.09.2019) :id=v716
 
@@ -288,7 +288,6 @@
  - Fixed several WordReporter bugs
  - Fixed sorting of entities in WebPublisher and WordReporter extensions (objects/links are now always sorted alphabetically)
  - Improved synchronization with SharePoint 
-
 
 ### V.7.1.5.34862 (11.07.2019) :id=v715
 
@@ -303,12 +302,10 @@
 - Improved permission management for sets in all extensions
 - Cached license information will now be removed when restoring a database using DbConfig
 
-
 ### V.7.1.3.33675 (19.11.2018) :id=v713
 
 - Improved unit locking for designers
 - Changelog publishing system introduced
-
 
 ### V.7.1.2.33586 (24.10.2018) :id=v712
 
@@ -316,11 +313,9 @@
 - Links to files are now shown only if the file is in the unit selected to be published
 - Converting diagrams format does not lock the database which leads to improved format conversion in big databases
 
-
 ### V.7.1.1.33332 (01.08.2018) :id=v711
 
 - Implemented runtime check for required Visio component: VBScript Engine
-
 
 ### V.7.1.0.33187 (20.06.2018) :id=v710
 
@@ -328,11 +323,9 @@
 - Improved handling of unmodified diagrams in WebPublisher
 - Button "Approve" is no longer visible if Aproval Management is deactivated
 
-
 ### V.7.0.8.32931 (14.06.2018) :id=v708
 
 - Meta information in installer file updated
-
 
 ### V.7.0.7.32716 (03.06.2018) :id=v707
 
