@@ -9,7 +9,6 @@ This page allows you to generate the command required to install process4.biz cl
 </style>
 
 <script type="text/javascript">
-<!--
     function updateState() {
         var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
         var checked_DB_SQL_AUTH_MODE = checked_INSTALL_DB && document.getElementById("DB_SQL_AUTH_MODE").checked;
@@ -104,7 +103,6 @@ This page allows you to generate the command required to install process4.biz cl
 
         document.getElementById("ResultString").value = result;
     }
--->
 </script>
 
 The MSI to install:
