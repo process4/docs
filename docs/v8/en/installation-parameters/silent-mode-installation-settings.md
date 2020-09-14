@@ -9,7 +9,6 @@ This page allows you to generate the command required to install process4.biz cl
 </style>
 
 <script type="text/javascript">
-<!--
     function updateState() {
         var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
         var checked_DB_SQL_AUTH_MODE = checked_INSTALL_DB && document.getElementById("DB_SQL_AUTH_MODE").checked;
@@ -71,7 +70,6 @@ This page allows you to generate the command required to install process4.biz cl
         }
         result += formatCheckValue("INSTALL_LICENSE_FILES");
 
-
         var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
         var checked_DEMOINSTALL_DB = document.getElementById("INSTALL_DB").value == 2 || document.getElementById("INSTALL_DB").value == 3;
 
@@ -104,7 +102,6 @@ This page allows you to generate the command required to install process4.biz cl
 
         document.getElementById("ResultString").value = result;
     }
--->
 </script>
 
 The MSI to install:
@@ -134,7 +131,6 @@ Profile XML <u>local</u> file location (optional):
 <br/>
 <br/>
 
-
 Install Core modules:
 <br/>
 <input checked="checked" id="INSTALL_MODELER" name="INSTALL_MODELER" type="checkbox"></input>
@@ -154,7 +150,6 @@ Install Core modules:
 <label for="INSTALL_LICENSE_SERVICE">Run ServerLicensing as a windows service</label>
 <br/>
 <br/>
-
 
 <input id="SETUP_LICENSE_SERVER" name="SETUP_LICENSE_SERVER" onclick="javascript:updateState()"
     type="checkbox"></input>
@@ -186,7 +181,6 @@ URL of the SERVER license hosting server:
 
 <br/>
 <br/>
-
 
 <label for="INSTALL_DB">
 Install databases to SQL server:
@@ -284,7 +278,6 @@ Install Extensions:
 <label for="INSTALL_ACTIVEDIR">
     ActiveDirectory-Import</label>
 <br/>
-
 
 <br/>
 <input id="INSTALL_WEB_PUBLISHER" name="INSTALL_WEB_PUBLISHER" type="checkbox"></input>
