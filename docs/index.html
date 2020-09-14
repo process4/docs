@@ -57,6 +57,102 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script type="text/javascript">
+    function updateState() {
+      var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
+      var checked_DB_SQL_AUTH_MODE = checked_INSTALL_DB && document.getElementById("DB_SQL_AUTH_MODE").checked;
+      var checked_DEMOINSTALL_DB = document.getElementById("INSTALL_DB").value == 2 || document.getElementById("INSTALL_DB").value == 3;
+      var checked_DEMODB_SQL_AUTH_MODE = checked_DEMOINSTALL_DB && document.getElementById("DEMODB_SQL_AUTH_MODE").checked;
+      var setup_license_server = document.getElementById("SETUP_LICENSE_SERVER").checked;
+
+      document.getElementById("div_INSTALL_DB").style.display = checked_INSTALL_DB ? "block" : "none";
+      document.getElementById("div_DB_SQL_AUTH_MODE").style.display = checked_DB_SQL_AUTH_MODE ? "block" : "none";
+
+      document.getElementById("div_DEMO_INSTALL_DB").style.display = checked_DEMOINSTALL_DB ? "block" : "none";
+      document.getElementById("div_DEMODB_SQL_AUTH_MODE").style.display = checked_DEMODB_SQL_AUTH_MODE ? "block" : "none";
+
+      document.getElementById("div_SERVER_LICENSE").style.display = setup_license_server ? "block" : "none";
+    }
+
+    function formatParam(id, value) {
+      return (value.length == 0) ? "" : id + "=\"" + value + "\" ";
+    }
+
+    function formatCheckValue(id) {
+      return formatParam(id, document.getElementById(id).checked ? "1" : "0");
+    }
+
+    function formatTextValue(id) {
+      return formatParam(id, "" + document.getElementById(id).value);
+    }
+
+    function generateResultString() {
+      var result = "";
+      result += "msiexec "
+      result += "/i \"" + document.getElementById("SRC_IMAGE").value + "\" ";
+      result += "/qn ";
+      result += formatTextValue("INSTALL_DIR");
+      result += formatTextValue("PROFILE");
+      result += formatTextValue("PROFILE_LOCAL");
+      result += formatTextValue("LANGUAGE_ID");
+
+      var lcid = document.getElementById("LANGUAGE_ID").value;
+      if (lcid == 1031)
+        result += "TRANSFORM=:de-DE ";
+      if (lcid == 1036)
+        result += "TRANSFORM=:fr-FR ";
+
+      if (document.getElementById("SETUP_LICENSE_SERVER").checked) {
+        result += formatCheckValue("SETUP_LICENSE_SERVER");
+
+        result += formatTextValue("USE_LICENSE_SERVER");
+        result += formatTextValue("LICENSE_SERVER_ONLINE");
+        result += formatTextValue("LICENSE_SERVER_SERVER");
+      }
+
+      result += formatCheckValue("INSTALL_DBCONFIG");
+      result += formatCheckValue("INSTALL_MODELER");
+
+      result += formatCheckValue("INSTALL_LICENSE_SERVICE");
+      if (document.getElementById("INSTALL_LICENSE_SERVICE").checked) {
+        document.getElementById("INSTALL_LICENSE_FILES").checked = true
+      }
+      result += formatCheckValue("INSTALL_LICENSE_FILES");
+
+
+      var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
+      var checked_DEMOINSTALL_DB = document.getElementById("INSTALL_DB").value == 2 || document.getElementById("INSTALL_DB").value == 3;
+
+      result += formatTextValue("INSTALL_DB");
+      if (checked_INSTALL_DB) {
+        result += formatTextValue("DB_SERVER_NAME");
+        result += formatCheckValue("DB_SQL_AUTH_MODE");
+        result += formatTextValue("DB_USER_NAME");
+        result += formatTextValue("DB_PASSWORD");
+      }
+      if (checked_DEMOINSTALL_DB) {
+        result += formatTextValue("DEMODB_SERVER_NAME");
+        result += formatCheckValue("DEMODB_SQL_AUTH_MODE");
+        result += formatTextValue("DEMODB_USER_NAME");
+        result += formatTextValue("DEMODB_PASSWORD");
+      }
+      result += formatCheckValue("INSTALL_AXAPTA");
+      result += formatCheckValue("INSTALL_EXCELIE_PPOINT");
+      result += formatCheckValue("INSTALL_SURE_STEP");
+      result += formatCheckValue("INSTALL_WORD_REPORTER");
+      result += formatCheckValue("INSTALL_DOC_COMPOSER");
+      result += formatCheckValue("INSTALL_COBIT_REPORTS");
+      result += formatCheckValue("INSTALL_BPMN2_IE");
+      result += formatCheckValue("INSTALL_ACTIVEDIR");
+      result += formatCheckValue("INSTALL_WEB_PUBLISHER");
+      result += formatCheckValue("INSTALL_WEB_PUBLISHER2");
+      result += formatCheckValue("INSTALL_VERSION_BROWSER");
+      result += formatCheckValue("INSTALL_TASK_MGMT");
+      result += formatCheckValue("INSTALL_SP_SYNC");
+
+      document.getElementById("ResultString").value = result;
+    }
+  </script>
 </body>
 
 </html>
