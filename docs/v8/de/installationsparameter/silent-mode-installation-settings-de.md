@@ -97,7 +97,7 @@ This page allows you to generate the command required to install process4.biz cl
         result += formatCheckValue("INSTALL_ACTIVEDIR");
         result += formatCheckValue("INSTALL_WEB_PUBLISHER");
         result += formatCheckValue("INSTALL_WEB_PUBLISHER2");
-        result += formatCheckValue("INSTALL_VERSION_BROWSER");
+        result += formatCheckValue("INSTALL_APPROVAL_HISTORY");
         result += formatCheckValue("INSTALL_TASK_MGMT");
         result += formatCheckValue("INSTALL_SP_SYNC");
 
@@ -293,8 +293,8 @@ Install Extensions:
 <label for="INSTALL_WEB_PUBLISHER2">
     ModelPublisher</label>
 <br/>
-<input id="INSTALL_VERSION_BROWSER" name="INSTALL_VERSION_BROWSER" type="checkbox"></input>
-<label for="INSTALL_VERSION_BROWSER">
+<input id="INSTALL_APPROVAL_HISTORY" name="INSTALL_APPROVAL_HISTORY" type="checkbox"></input>
+<label for="INSTALL_APPROVAL_HISTORY">
     ApprovalHistory</label>
 <br/>
 <br/>
