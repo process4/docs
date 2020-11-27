@@ -88,7 +88,7 @@ The following MS Office versions are supported:
 - 2016
 - 2019
 
-Additionally 2010 version was tested, but it is not officially supported.
+Additionally 2013 version was tested, but it is not officially supported.
 
 #### Microsoft SQL Server 
 
