@@ -10,7 +10,6 @@
   - [Sharepoint](#sharepoint)
 - [ServerLicense](#serverlicense)
 
-
 ### Introductory Remarks
 
 -   process4.biz installation files can be downloaded on the main page https://registration.process4.biz. Once you register, you will see downloads area.
@@ -27,7 +26,6 @@
     supported. Process4.biz client and process4.biz server must have the
     same version installed.
 
-
 ### Hardware Requirements
 
 The process4.biz client computer must meet the following minimum
@@ -41,7 +39,7 @@ requirements:
 <div class="info">
   In general, the process4.biz Client demands the hardware requirements requested by the respective Microsoft Windows and Office releases in order to function properly. Please refer to the websites of Microsoft for the respective hardware requirements of the Microsoft products Visio and SQL Server.
   </div>
-         
+
 A database storage capacity of approx. 250 KB is recommended per diagram, if you want to store the diagrams via BLOB (Binary Large Objects) directly in the database, or approx. 200 KB per diagram, if you want to save them on a file server instead. The database itself will
 occupy only about 500 MB even in the case of large installations and when storing the diagrams on the file server.
 
@@ -87,9 +85,9 @@ All clients running process4.biz must have the **same** Visio version installed.
 #### Microsoft Office
 
 The following MS Office versions are supported:
-- 2013
 - 2016
- 
+- 2019
+
 Additionally 2010 version was tested, but it is not officially supported.
 
 #### Microsoft SQL Server 
@@ -97,7 +95,7 @@ Additionally 2010 version was tested, but it is not officially supported.
 The following MS SQL Server versions are supported: 
 - 2016
 - 2017
- 
+
 Additionaly, 2012 and 2014 versions were tested and work fine, but these versions are not officially supported.
 
 <div class="warning">
@@ -132,7 +130,6 @@ The following Microsoft SharePoint versions are supported when using the optiona
 - Microsoft SharePoint 2013
 - Microsoft SharePoint 2016
 - Microsoft SharePoint Online
-
 
 ### ServerLicense
 
