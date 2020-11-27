@@ -10,8 +10,6 @@
   - [Sharepoint](#sharepoint)
 - [ServerLizenz](#serverlizenz)
 
-
-
 ### Allgemeine Vorbemerkungen
 
 -   Um process4.biz zu herunterladen, müssen Sie sich auf der Website [https://registration.process4.biz](https://registration.process4.biz) registrieren.
@@ -22,7 +20,6 @@
 -   Gültige [Lizenzschlüssel](lizenzierung) werden immer erst nach Zahlungseingang ausgestellt und haben ein Ablaufdatum zum Stichtag der fälligen Maintenance.
 -   Lizenzschlüssel werden per Mail zugesendet oder persönlich übergeben oder über das Web bereitgestellt.
 -   Zusätzliche Module von Drittherstellern, bedürfen einer separaten Installation und Lizenzierung durch den Dritthersteller, sowie evtl. auch durch process4.biz.
-
 
 ### Hardwareanforderungen
 
@@ -36,7 +33,7 @@ Der process4.biz Client-Rechner muss mindestens folgende Voraussetzungen erfüll
 <div class="info">
 Generell gilt aber, dass der process4.biz Client selbst auch nur jene Anforderungen an die Hardware stellt, die das jeweilige Microsoft Windows und Office Release braucht, um eine performante Leistung zu bringen.  
   </div>
-  
+
 Für die jeweiligen Hardwareanforderungen der Microsoft Produkte Visio und SQL-Server bitten wir Sie, sich auf den Webseiten von Microsoft zu informieren.
 
 Für die Datenbank wird empfohlen, eine Speicherkapazität von ca. 250 KB pro Diagramm zu veranschlagen, wenn Sie die Diagramme mittels BLOB (Binary Large Objects) in der Datenbank direkt ablegen wollen, oder ca. 200 KB pro Diagramm, wenn Sie diese stattdessen auf einem Fileserver ablegen wollen. Die Datenbank selbst wird auch bei besonders großen Installationen und einer Speicherung der Diagramme am Fileserver nur ca. 500 MB umfassen.
@@ -77,9 +74,9 @@ Auf allen Clients, auf denen process4.biz ausgeführt wird, muss dieselbe Visio-
 #### Microsoft Office
 
 Folgende MS Office Versionen sind unterstützt:
-- 2013
 - 2016
- 
+- 2019
+
 Zusätzlich wurde die MS Office 2010-Version getestet, sie wird jedoch nicht offiziell unterstützt.
 
 #### Microsoft SQL Server 
@@ -87,7 +84,7 @@ Zusätzlich wurde die MS Office 2010-Version getestet, sie wird jedoch nicht off
 Folgende MS SQL Server Versionen sind unterstützt:
  - 2016
  - 2017 
- 
+
 Zusätzlich wurden die 2012- und 2014-Versionen getestet, sie werden jedoch nicht ofiziell unterstützt.
 
 <div class="warning">
@@ -107,14 +104,13 @@ Wenn Sie die Erweiterung ApprovalHistory verwenden möchten, stellen Sie sicher,
 
 ![image](//images.ctfassets.net/6mz8d8cle1nl/3XT9M0zMT6nR7AulX3plIW/26825a9a028fe9d79f1b62d5feb1137f/image.png)
 
-
 #### Browser
 
 Folgende Browser sind für Publikationen aus dem neuen Model Publisher unterstüzt: 
 - Google Chrome (61.0.3163.100)
 - Firefox (65.0.2)
 - Microsoft Edge (81.0.416.60)
- 
+
 Publikationen, welche mit dem Web Publisher erstellt wurden, unterstützen höchstens IE11.
 
 #### SharePoint
