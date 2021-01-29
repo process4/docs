@@ -20,7 +20,7 @@
 
 ## Changelog
 
-### V.8.0.9.37726 (29.01.2021) :id=v801
+### V.8.0.9.37726 (29.01.2021) :id=v809
 
 - process4.biz Modeler kann jetzt automatisch die Registry reparieren, wenn die VB-Script-Engine ausgeschaltet ist. Dies erfordert lokale Admin-Rechte.
 - Fixed: Probleme mit kaskadierenden Rechten, die zu falschen Ergebnissen im QueryBuilder führten.
