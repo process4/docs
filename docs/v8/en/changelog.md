@@ -1,3 +1,4 @@
+- [V.8.0.9.37726 (29.01.2021)](#v809)
 - [V.8.0.8.37055 (11.09.2020)](#v808)
 - [V.8.0.7.36862 (16.07.2020)](#v807)
 - [V.8.0.6.36557 (27.04.2020)](#v806)
@@ -18,6 +19,11 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Release Notes
+
+### V.8.0.9.37726 (29.01.2021) :id=v801
+
+- process4.biz Modeler can now automatically repair the registry when VB Script engine is turned off. This requires local admin rights.
+- Fixed: issues with cascading permissions which resulted in incorrect results in QueryBuilder
 
 ### V.8.0.8.37055 (11.09.2020) :id=v808
 
