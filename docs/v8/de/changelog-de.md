@@ -1,3 +1,9 @@
+- [V.8.1.6.38117 (07.09.2021)](#v816)
+- [V.8.1.5.38075 (23.06.2021)](#v815)
+- [V.8.1.4.38013 (26.05.2021)](#v814)
+- [V.8.1.3.37968 (14.05.2021)](#v813)
+- [V.8.1.1.37897 (09.04.2021)](#v811)
+- [V.8.1.0.37891 (09.04.2021)](#v810)
 - [V.8.0.9.37726 (29.01.2021)](#v809)
 - [V.8.0.8.37055 (11.09.2020)](#v808)
 - [V.8.0.7.36862 (16.07.2020)](#v807)
@@ -19,6 +25,81 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Changelog
+
+### V.8.1.6. (07.09.2021) :id=v816
+
+- Behebung des Fehlers beim Diagramm-Update
+- Behebung des Visio-Absturzes bei der Objektbearbeitung ohne Eigentümer
+- Behoben das Problem der Verletzung der Fremdschlüssel-Beschränkung beim Diagramm-Update
+- Behebung des Problems mit der Zoomstufe im Model Publisher 
+
+### V.8.1.5. (23.06.2021) :id=v815
+
+- Das Problem mit der Log-Datei, die bei jedem Modeler-Start auf dem Desktop erstellt wurde, wurde behoben
+- Der Fehler mit der Zeitdifferenz beim Start des Modelers wurde behoben
+- Die Probleme mit der Kryptographie wurden behoben
+- Das Problem mit dem Hinzufügen von Shape-Daten zu bestehenden Shapes nach einem Diagramm-Update wurde behoben 
+- Problem mit nicht angezeigten Checkboxen in "Check-out templates" behoben
+- Fehler bei der Zeitdifferenz während der SharePoint-Synchronisation behoben
+- Fehlerhafte Generierung von Links im ModelPublisher behoben   
+
+### V.8.1.4. (26.05.2021) :id=v814
+
+- Das Problem mit der Änderung der statischen Adresse nach dem Neustart der ServerLicense wurde behoben
+
+### V.8.1.3. (14.05.2021) :id=v813
+
+- Behebung des Problems mit gelegentlichen Fehlern der SharePoint-Verbindung 
+- Verbessertes Warten der SharePoint-Synchronisation beim Speichern des Diagramms
+- Die Logging-Einstellungen wurden zu den Einstellungen des Modeler-Clients hinzugefügt.
+- Verbessert die Protokollierung 
+
+### V.8.1.1. (09.04.202) :id=v811
+
+- Einstellungen für Zoom-Beschränkungen im ModelPublisher hinzugefügt
+- Visio-Abstürze nach der Anmeldung behoben.
+- Das Problem mit den fehlenden Feldern nach der SharePoint-Synchronisation wurde behoben
+- Das Problem mit der nicht korrekten Arbeit der Suche durch Windows-Benutzer wurde behoben 
+- Die Produktivität der Model-Publisher-Site wurde verbessert 
+- Das Problem wurde behoben: Links in ModelPublisher mit Basispfad werden nicht exportiert
+- Ermöglicht das Kopieren von Elementen zwischen zwei Designern in 2 getrennten Datenbanken
+- Implementiert, um das VBS-Problem durch das Warnfenster zu beheben.
+- Der Status "Warten auf Genehmigung" kann als dauerhafter Status verwendet werden 
+- Optionen in den Datenbankeinstellungen für Web Approve hinzugefügt
+- Checkbox "Dieses Profil für WebPlatform-Lösung verwenden" in der DbConfig hinzugefügt 
+
+### V.8.1.0. (09.04.2021) :id=v810
+
+- In ModelPublisher Filterung der Diagramme nach den Tags hinzugefügt
+- Im ModelPublisher wurde eine Multi-Thread-Funktionalität implementiert, um die Geschwindigkeit des Veröffentlichungsprozesses zu verbessern
+- Im ModelPublisher wurden genehmigte Diagramme jedes Mal überarbeitet (auch wenn das zuvor veröffentlichte Diagramm ebenfalls genehmigt war). Funktion "Behalte das zuvor Genehmigte bei" nur bei inkrementeller Aktualisierung der Publikation verfügbar.
+- Die Aktualisierung alter Publikationen ist im ModelPublisher implementiert
+- Verbesserte Auswahl des Farbthemas für die ModelPublisher-Seite
+- In der Genehmigungshistorie Diagramme aus geöffneter Datei und Objekt aus Eigenschaften: LinkedDiagrams, UsedOnDiagrams wurden hervorgehoben
+- Farbwähler für gelöschte und nicht vorhandene Elemente in der ApprovalHistory hinzugefügt
+- Position des Paginierungsselektors in der ApprovalHistory zugefügt
+- Verbesserte Ansicht der Objekte und Dateien in den Diagrammeigenschaften in der Approval-History
+- Verbessertes Ändern der Farbeinstellungen für die Veröffentlichung in der Approval-History
+- Verbessertes Scrollen der Diagrammversionen in der Approval History
+- Startseite für die Seite Versionsbrowser hinzugefügt
+- Sortierung der Profile im Datenbankselektor für die Version-Browser-Site hinzugefügt
+- Verbesserter Genehmigungsprozess bei der Anmeldung in der Db unter demselben Benutzer
+- Warnung vor dem Ausschalten der nativen Genehmigung hinzugefügt
+- SharePointSync-Assistenten-Fenster merken sich jetzt ihre Größe (wenn sie vom Benutzer geändert wurde)
+- Korrelations-ID zu den SP-Sync-bezogenen Fehlern hinzugefügt
+- Neue Info "Sync-Fehler" zum SP-Synchronisationsprotokoll hinzugefügt
+- Behoben: Fehler bei "OpenDiagram" für die Klasse P4BAddon
+- Information "User Changed" für DbConfig-Profile hinzugefügt
+- Kommentarfeld für DbConfig-Profile hinzugefügt
+- Fehler während des Importvorgangs im IEM stoppen den Prozess jetzt nicht mehr
+- In der Server-Lizenzanwendung wird die abgelaufene Lizenz nun rot hervorgehoben
+- Verbesserter Logging-Prozess zur ausgecheckten Lizenz
+- Behoben: Problem mit fehlender "Tags"-Eigenschaft im QueryBuilder
+- Behoben: Problem mit der Bearbeitung gesperrter Links
+- Behoben: Problem mit dem Hinzufügen von Datengrafiken nach Diagramm-Update
+- Behoben: Problem mit der Rechtevererbung und dem Zurücksetzen
+- Für den Diagrammspeicher-Assistenten benötigen Benutzer keine Admin-Rechte
+- Verbessert: das Kontextmenü für die Knoten Datei, Daten und Diagramm
 
 ### V.8.0.9.37726 (29.01.2021) :id=v809
 

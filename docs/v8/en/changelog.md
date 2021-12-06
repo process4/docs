@@ -1,3 +1,9 @@
+- [V.8.1.6.38117 (07.09.2021)](#v816)
+- [V.8.1.5.38075 (23.06.2021)](#v815)
+- [V.8.1.4.38013 (26.05.2021)](#v814)
+- [V.8.1.3.37968 (14.05.2021)](#v813)
+- [V.8.1.1.37897 (09.04.2021)](#v811)
+- [V.8.1.0.37891 (09.04.2021)](#v810)
 - [V.8.0.9.37726 (29.01.2021)](#v809)
 - [V.8.0.8.37055 (11.09.2020)](#v808)
 - [V.8.0.7.36862 (16.07.2020)](#v807)
@@ -20,6 +26,79 @@
 
 ## Release Notes
 
+### V.8.1.6. (07.09.2021) :id=v816
+- Fixed the error during Diagram Update
+- Fixed the Visio crash on object editing without owner
+- Fixed the Foreign key constraint violation issue on Diagram Update
+- Fixed the zoom level problem in Model Publisher 
+
+### V.8.1.5. (23.06.2021) :id=v815
+
+- Fixed the issue with log file created on desktop on each modeler start
+- Fixed the time difference error on the Modeler start
+- Fixed the problems with cryptography 
+- Fixed the issue with adding shape data to existing shapes after Diagram Update 
+- Fixed the problem with checkboxes not shown in "Check-out templates"
+- Fixed the time difference error during SharePoint synchronization
+- Fixed incorrect generation of links in ModelPublisher 
+
+### V.8.1.4. (26.05.2021) :id=v814
+
+- Fixed the issue with changes of static address after ServerLicense restart
+
+### V.8.1.3. (14.05.2021) :id=v813
+
+- Fixed the issue with occasional fails of SharePoint connection 
+- Improved the SharePoint synchronization waiting on saving the diagram
+- Logging settings is added to the Modeler client settings.
+- Improved the logging 
+
+### V.8.1.1. (09.04.2021) :id=v811
+
+- Added zoom limitations settings in the ModelPublisher
+- Fixed Visio crashes after login.
+- Fixed the issue with missing fields after SharePoint syncronization
+- Fixed the problem with not correct work of Search by Windows user 
+- Improved the productivity of Model Publisher site 
+- Fixed the issue: Links in ModelPublisher with base path are not exported
+- Enabled copy elements between two designers in 2 separate databases
+- Implemented fix VBS issue through the warning window.
+- "Waiting for approval" status can be used as persistent status 
+- Added Options in Database settings for Web Approve
+- Added checkbox “Use this profile for WebPlatform solution” to the DbConfig 
+
+### V.8.1.0. (09.04.2021) :id=v810
+
+-	In ModelPublisher added filtering of diagrams by the tags
+-	In ModelPublisher implemented multy-threads functionality to improve speed of publication process
+-	In ModelPublisher approved diagrams got revrited every time (even in previously published diagram also approved) . Function "Keep the previously as approved" available only for Incremental update of publication.
+-	Upgrade of old publications is implemented in ModelPublisher
+-	Improved selecting of color theme for ModelPublisher site
+-	In the Approval History diagrams from opened file and object from properties: LinkedDiagrams, UsedOnDiagrams got highlighted
+-	Added color picker for deleted and non-existing items in the ApprovalHistory
+-	Added position of pagination selector in the Approval History
+-	Improved view of the objects and files in the diagram properties in the Approval History
+-	Improved changing color settings for publication in the Approval History
+-	Improved diagram versions scrollers in the Approval History
+-	Added start page for the Version browser site
+-	Added sorting of profiles in database selector for the Version browser site
+-	Improved the approval process on logging in to the Db under the same User
+-	Added warning before turning off Native approval
+-	SharePointSync wizard windows will now remember their size (if it was changed by the user)
+-	Correlation ID included to the SP Synchronization related errors
+-	New info "Sync errors" added to the SP synchronization log
+-	Fixed: bug with "OpenDiagram" for P4BAddon class
+-	Added User Changed information for DbConfig profiles
+-	Added comment field for DbConfig profiles
+-	Errors during import procedure in IEM do not stop the process now
+-	In the Server license application the expired license now got highlighted with red
+-	Improved logging process to the checked out license
+-	Fixed: issue with "Tags" property missing in QueryBuilder
+-	Fixed: issue with editing locked links
+-	Fixed: problem with adding data graphic after Diagram Update
+-	Fixed: problem with permission inheritance and reset
+- For the Diagram storage wizard user do not need the Admin rights
+-	Improved the context menu for the File, Data and Diagram nodes
 ### V.8.0.9.37726 (29.01.2021) :id=v809
 
 - process4.biz Modeler can now automatically repair the registry when VB Script engine is turned off. This requires local admin rights.

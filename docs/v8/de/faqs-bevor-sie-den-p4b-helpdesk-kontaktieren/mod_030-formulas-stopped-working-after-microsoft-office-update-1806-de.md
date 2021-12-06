@@ -62,7 +62,6 @@ Excel/Word/..., only Outlook seems unaffected. 
 
 <https://support.microsoft.com/en-us/help/4058123/security-settings-for-com-objects-in-office>
 
-***  
 ***
 
 ## **Solution**
@@ -95,15 +94,11 @@ above mentioned Microsoft Office Updates. 
         [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\REGISTRY\MACHINE\Software\Wow6432Node\Microsoft\Office\16.0\Common\COM Compatibility\{B54F3741-5B07-11cf-A4B0-00AA004A55E8}]
         "ActivationFilterOverride"=dword:00000001
 
-         
-
 2.  Run (double-click) the .reg file (you need local administrative
     permission / local elevated rights)
 3.  If you want to get control when the next update hits you, you can
     change/turn off your Office Updates setting, or use Update
     Policies.  
-
-         
 
 Alternatively you can downgrade your Office to a previous version like
 in this example to 1805:
@@ -114,13 +109,9 @@ in this example to 1805:
     %programfiles%\\Common Files\\Microsoft Shared\\ClickToRun **
 3.  Now execute command to downgrade Microsoft Office to the last
     version that is known to work: **officec2rclient.exe /update user
-    updatetoversion=16.0.9330.2124 **
+    updatetoversion=16.0.9330.2124**
 4.  process4.biz and other Office Add-INs are now working again. 
 5.  Do not forget to **turn off** automatic Office Updates.  
-      
-
- 
-
 
 <hr style="padding-top:2rem" />
 <a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>

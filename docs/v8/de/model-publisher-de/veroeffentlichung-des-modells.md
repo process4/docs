@@ -1,14 +1,14 @@
 Um die Model Publisher-Erweiterung zu starten, müssen Sie die entsprechende Erweiterung aus der Dropdown-Liste auswählen.
 
 ![MPub 1](//images.ctfassets.net/6mz8d8cle1nl/1XCAu5yln62c3KyE4DfN1l/bc680c245f3203d55e562c5b339affa2/MPub_1.png)
- 
+
 Um die Model Publisher-Erweiterung zu starten, müssen Sie die entsprechende Erweiterung auswählen. Auf der ersten Seite der Model Publisher-Erweiterung können Sie eine von drei Aktionen auswählen:
 - Neue Publikation erstellen: um eine neue Website zu erstellen und das Modell dort zu veröffentlichen
 - Aktualisieren einer vorhandenen Publikation (en): Aktualisieren vorhandener Publikationen
 - Löschen einer vorhandenen Publikation (en): Zum Löschen von Publikationen in der Dropdown-Liste.
 
 ### Neue Publikation erstellen
- 
+
 ![MPub 2](//images.ctfassets.net/6mz8d8cle1nl/3F0NSKvLmoQv6fLXV6uEqg/96491435076b22c719299b0c0dc4d945/MPub_2.png)
 Um eine neue Publikation zu erstellen, müssen Sie die folgenden Website- und Publikationsdaten definieren:
 
@@ -44,12 +44,11 @@ __Site Einstellungen__
 
 Sie können die Set-Einstellungen anpassen: Startseite, Kontakt, Hilfe und E-Mail-Adresse für die Schaltfläche Feedback. Sie können auch die Schaltflächen entfernen, die Sie nicht benötigen, indem Sie das entsprechende Kontrollkästchen deaktivieren.
 ![MPub 3](//images.ctfassets.net/6mz8d8cle1nl/7ndnt7UjCVi2Xk8Jh2SmB0/bdae1257e72c562a7d784f9be80b1b39/MPub_3.png)
- 
 
 #### Units für die Veröffentlichung auswählen
 Wählen Sie die Units aus, deren Inhalt Sie veröffentlichen möchten. Wenn Sie eine bestimmte Unit auswählen, werden nur die in diesee Unit erstellten Objekte und Diagramme und keine geerbten Objekte veröffentlicht. Sie können auch Inhalte aus mehreren Units veröffentlichen. In diesem Fall sollten Sie die Gruppierung von Objekten nach Units in Betracht ziehen (siehe Kapitel Gruppieren von Einstellungen für Objekte).
 ![MPub 4](//images.ctfassets.net/6mz8d8cle1nl/5ger2RtPLJnzczIv1mQg6x/d5d8992b67eba6288687d00bb203914f/MPub_4.png)
- 
+
 #### Auswählen von Diagrammen
 __Anzeige für Units__
 
@@ -67,7 +66,7 @@ Analog zum Repository kann auf der Website ein Diagrammhierarchiebaum erstellt w
 - Zeigen Sie Diagramme der übergeordneten Einheiten im Baum.
 - Diagramme untergeordneter Units im Baum anzeigen.
 - Blenden Sie die nicht verfügbaren aus (und passen Sie den Baum an).
-      
+
 - Group diagrams alphabetically
 Wählen Sie diese Option aus, um Diagramme alphabetisch zu sortieren. Wenn Sie diese Sortierung für Diagramme ausgewählt haben, können Sie auch die Gruppierung nach Diagrammklassen festlegen. 
 
@@ -79,7 +78,7 @@ Aktivieren Sie dieses Kontrollkästchen, wenn Sie Diagramme nur basierend auf de
 
 __Standardknoten (Diagrammknoten) ausblenden__ 
 Wenn Sie diese Option für Diagramme aktivieren, wird der Diagrammzweig im Webportal standardmäßig reduziert.
- 
+
 __Synchronisieren Sie den Navigationsbaum automatisch mit dem aktuell ausgewählten Diagramm__
 Aktivieren Sie diese Option, wenn Sie möchten, dass ein Diagramm automatisch in der Baumstruktur ausgewählt wird, wenn Sie z.B.wenn Sie das Diagramm vom Smarttag aus öffnen.
 Hinweis: Wenn Sie eine Vorschau der Darstellung der Diagrammstruktur in der Publikation mit den ausgewählten Einstellungen anzeigen möchten, klicken Sie auf die Schaltfläche Diagrammstruktur neu laden. Die Baumstrukturvorschau wird aktualisiert.
@@ -98,7 +97,6 @@ __Gruppierung von Objekten__
 
 In der Publikation können Objekte in der Baumstruktur auf traditionelle Weise nach ihren Klassen gruppiert werden.
 
- 
 __Zusätzliche Einstellungen für Objekte__
 
 - Berücksichtigen Sie nur die Objekte, die in veröffentlichten Diagrammen vorhanden sind: Wählen Sie diese Option aus, wenn Sie nur Objekte veröffentlichen möchten, die in den zu veröffentlichenden Diagrammen verwendet wurden
@@ -120,7 +118,7 @@ Auf der Website können Dateien des veröffentlichten Modells auf folgende Weise
 Sie müssen das Kontrollkästchen Leere Units aktivieren, wenn Sie Units veröffentlichen möchten, die keine Dateien enthalten.
 __Gruppieruung von Dateien__
 In den Publikationsdateien in der Baumstruktur können die Klassen auf herkömmlicher Weise gruppiert werden.
- 
+
 __Zusätzliche Einstellungen für Dateien__
 
 -	Kopieren Sie Dateien aus der Datenbank (in die Datenbank hochgeladen) an den Zielspeicherort
@@ -131,7 +129,7 @@ __Zusätzliche Einstellungen für Dateien__
 ![MPub 7](//images.ctfassets.net/6mz8d8cle1nl/1oEAJTgRpmQGw4JmnaFYRG/c657dce4de113e81be6972a066b56395/MPub_7.png)
 
 #### Allgemeine Publikationseinstellungen
- 
+
 ![MPub 8](//images.ctfassets.net/6mz8d8cle1nl/4mKXzWiJ2eoRBJ7Ml4q6k0/961603a99125af4bb56595610880585a/MPub_8.png)
 
 __Verwenden eines bestimmten Diagramms als Startseite__
@@ -151,9 +149,20 @@ __Zeigen Sie zusätzliche Eigenschaften in der Liste mit den verknüpften Objekt
 Wenn ein Objekt mit anderen Objekten verknüpft ist, wird in den Objekteigenschaften eine Liste mit verknüpften Objekten im Webportal angezeigt. Standardmäßig werden Klasse, Objektname und Zuordnungsobjekt der verknüpften Objekte in der Liste angezeigt. Sie können jedoch auch für jede Klasse festlegen, welche zusätzlichen Eigenschaften in der Liste der verknüpften Objekte angezeigt werden sollen. Klicken Sie auf Eigenschaften auswählen und markieren Sie die gewünschte Eigenschaft pro Klasse.
 
 ![MPub 9](//images.ctfassets.net/6mz8d8cle1nl/5pC1d3TLLGn5FqSqS7r378/c53af6afbec4adb6c89744a6d40e9971/MPub_9.png)
- 
 
+__RACI-Eingangs-/Ausgangsspalten ein-/ausblenden__
 
+Die Option Show/Hide RACI input/output erlaubt, die Ansicht der Diagramme zu vereinfachen, indem die Objekte und Verbindungen der Input- und Output-Spalten in den RACI-Diagrammen versteckt werden. Wenn diese Option eingeschaltet ist, wird die Schaltfläche Hide input/output columns auf den generierten Seiten mit RACI-Diagrammen verfügbar sein. Es gibt drei Schlüsselwörter, die standardmäßig in der Liste hinzugefügt werden, um Vorlagen von Diagrammen auszuwählen, die diese Option in der Veröffentlichung haben werden. Schlüsselwörter können hinzugefügt und gelöscht werden. Wenn Sie ein anderes Schlüsselwort in den Namen der Vorlage aufnehmen möchten, geben Sie es in das Feld ein und klicken Sie auf die Schaltfläche Schlüsselwort hinzufügen. Das Wort wird der Liste hinzugefügt, und für Diagramme, die auf Vorlagen basieren, die eines der hinzugefügten Schlüsselwörter enthalten, wird eine Option verfügbar sein.
+
+Um das Wort aus der Liste zu entfernen, wählen Sie es aus und klicken Sie auf die Schaltfläche Schlüsselwort löschen.
+Um die Standard-Schlüsselwortliste wiederherzustellen, klicken Sie auf die Schaltfläche Standard-Schlüsselwort hinzufügen.
+
+Standardmäßig werden Objekte von Spalten mit Eingangs- und Ausgangsnamen ausgeblendet, wenn die Option aktiviert ist. Die Liste der Namen kann geändert werden. Geben Sie den Namen der Spalte swimlane shape in das Feld ein und klicken Sie auf die Schaltfläche Name hinzufügen. Der Name wird der Liste hinzugefügt.
+
+Um den Namen aus der Liste zu entfernen, wählen Sie ihn aus und klicken Sie auf die Schaltfläche Name löschen.
+Um die Liste der Standardnamen wiederherzustellen, klicken Sie auf die Schaltfläche Standardnamen hinzufügen.
+
+Wenn Sie im veröffentlichten Diagramm auf die Schaltfläche Eingangs-/Ausgangsspalten ausblenden klicken, werden die in den Einstellungsspalten aufgelisteten Objekte und ihre Verbindungen ausgeblendet. Um die Objekte und Verbindungen wieder einzublenden, klicken Sie auf die Schaltfläche Eingabe-/Ausgabespalten anzeigen.
 <hr style="padding-top:2rem" />
 <a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
 <a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

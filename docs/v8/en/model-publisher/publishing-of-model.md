@@ -1,14 +1,14 @@
 To start the Model Publisher extension you need to select corresponding extension from the drop-down list.
 
 ![MPub 1](//images.ctfassets.net/6mz8d8cle1nl/1XCAu5yln62c3KyE4DfN1l/bc680c245f3203d55e562c5b339affa2/MPub_1.png)
- 
+
 On the firs page of Model Publisher extension you can select one of three actions: 
 -	Create new publication: to create new web site and publish model there
 -	Update an existing publication(s): to refresh already existing publication(s) 
 -	Delete an existing publication(s): to delete publication(s)
 
 ### Create new publication
- 
+
 ![MPub 2](//images.ctfassets.net/6mz8d8cle1nl/3F0NSKvLmoQv6fLXV6uEqg/96491435076b22c719299b0c0dc4d945/MPub_2.png)
 To create new publication you need to define following website and publication data:
 
@@ -44,13 +44,12 @@ __Site settings__
 
 You can customize site settings:  Home, Contact, Help, and the e-mail address for the Feedback button. You can also remove the buttons that you do not need, by unchecking the respective box.
 ![MPub 3](//images.ctfassets.net/6mz8d8cle1nl/7ndnt7UjCVi2Xk8Jh2SmB0/bdae1257e72c562a7d784f9be80b1b39/MPub_3.png)
- 
 
 #### Selecting Units for publication
 Select the units the content of which you want to publish. If you select a specific unit, only objects and diagrams created in this unit will be published, and no inherited objects. You can also publish content from multiple units. In this case, you might want to consider grouping objects by units (see chapter grouping settings for objects).
 
 ![MPub 4](//images.ctfassets.net/6mz8d8cle1nl/5ger2RtPLJnzczIv1mQg6x/d5d8992b67eba6288687d00bb203914f/MPub_4.png)
- 
+
 #### Selecting diagrams
 __Display for Units__
 
@@ -66,7 +65,7 @@ Similarly to the repository, a diagram hierarchy tree can be generated on the we
   -	Show diagrams of parent units in the tree. 
   -	Show diagrams of child units in the tree.
   -	Hide the unavailable ones (and adjust the tree). 
-   
+
 - Group diagrams alphabetically
 Select this option to sort diagrams alphabetically. If you selected this kind of sorting for diagrams, you also can set grouping by Diagram classes. 
 
@@ -79,9 +78,9 @@ __Publish only selected Visio pages__
 Select this checkbox if you want to publish diagrams only based on defined Visio pages. In the drop-down menu select one or several types of Visio pages that should be published.
 
 __Collapse root (diagrams) node by default__
- 
+
  If you enable this option for diagrams, the diagram branch in the web portal collapses by default.
- 
+
 __Automatically synchronize the navigation tree with currently selected diagram__
 
 Enable this option if you want a diagram to be automatically selected in the tree, when you e.g. open the diagram from the smart tag.
@@ -102,7 +101,6 @@ __Grouping of objects__
 
 In the publication objects in the tree can be grouped in the traditional way by its classes. 
 
- 
 __Additional settings for objects__
 
 -	Consider only these objects which exist on published diagrams: select this option if you want to publish only object that used on the diagrams that will be published 
@@ -125,7 +123,6 @@ You need to check Include empty units check box if you want to publish units tha
 __Grouping of files__
 In the publication files in the tree can be  grouped in the traditional way by its classes. 
 
- 
 __Additional settings for files__
 
 -	Copy files from the database (uploaded to the database) to the target site location
@@ -136,8 +133,8 @@ __Additional settings for files__
 ![MPub 7](//images.ctfassets.net/6mz8d8cle1nl/1oEAJTgRpmQGw4JmnaFYRG/c657dce4de113e81be6972a066b56395/MPub_7.png)
 
 #### General publication settings
- 
-![MPub 8](//images.ctfassets.net/6mz8d8cle1nl/4mKXzWiJ2eoRBJ7Ml4q6k0/961603a99125af4bb56595610880585a/MPub_8.png)
+
+![Show hide RACI](//images.ctfassets.net/6mz8d8cle1nl/23wxvTLJtiyZoWL8BotpOS/409d7d3ea73422121afa4dda08c9611b/Show_hide_RACI.png)
 
 __Using a specific diagram as the start page__
 
@@ -156,9 +153,22 @@ __Show additional properties in the list with the linked objects__
 When an object is linked with other objects, you will see a list with linked objects in the web portal in the object properties. By default, the class, object name and association object of the linked objects are displayed in the list. However, you can also define for each class, which additional properties are to be displayed in the list of linked objects. Click Select properties and just tick the desired property per class.
 
 ![MPub 9](//images.ctfassets.net/6mz8d8cle1nl/5pC1d3TLLGn5FqSqS7r378/c53af6afbec4adb6c89744a6d40e9971/MPub_9.png)
- 
 
+__Show/Hide RACI input/output columns__
 
+Show/Hide RACI input/output option allow to simplify the view of the diagrams by hiding objects and connections of Input and Output columns on RACI diagrams. If this option is turned on __Hide input/output columns__ button will be available on the generated pages with RACI diagrams. There are three keywords added by default in the list to select templates of diagrams that will have this option in the publication. Keywords can be added and deleted. If you need to add another keyword included to the template name enter it into the field and click on __Add keyword__ button. The word will be added to the list and an option will be available for diagrams based on templates that contain one of the added keywords.
+
+To remove the word from the list select it and click on the __Delete keyword__ button.
+To restore the default keyword list click on __Add default__ keyword button. 
+
+By default objects of columns with Input and Output names will be hidden when the option is on. The list of names can be changed. Enter the name of the column swimlane shape to the field and click __Add name__ button. The name will be added to the list.  
+
+To remove the name from the list select it and click on the __Delete name__ button.
+To restore the default names list click on __Add default name__ button.  
+
+By clicking on the __Hide input/output columns__ button in the published diagram, objects listed in the settings columns and their connections will be hidden. To unhide the objects and connections click on the __Show input/output columns__ button.
+
+![Show hide RACI 2](//images.ctfassets.net/6mz8d8cle1nl/7gdO4ht77vMQvVUhQrmm0t/c982e1c085cefed5daf04093075ecf86/Show_hide_RACI_2.png)
 <hr style="padding-top:2rem" />
 <a href="https://github.com/process4/docs/issues" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm">Report an issue</a>
 <a href="https://github.com/process4/docs" target="_blank" class="bgw btn btn-primary btn-lg shadow-sm" style="margin-left:10px;">View source code</a>

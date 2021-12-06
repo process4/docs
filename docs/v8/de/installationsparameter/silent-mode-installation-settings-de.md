@@ -70,7 +70,6 @@ This page allows you to generate the command required to install process4.biz cl
         }
         result += formatCheckValue("INSTALL_LICENSE_FILES");
 
-
         var checked_INSTALL_DB = document.getElementById("INSTALL_DB").value == 1 || document.getElementById("INSTALL_DB").value == 3;
         var checked_DEMOINSTALL_DB = document.getElementById("INSTALL_DB").value == 2 || document.getElementById("INSTALL_DB").value == 3;
 
@@ -97,7 +96,7 @@ This page allows you to generate the command required to install process4.biz cl
         result += formatCheckValue("INSTALL_ACTIVEDIR");
         result += formatCheckValue("INSTALL_WEB_PUBLISHER");
         result += formatCheckValue("INSTALL_WEB_PUBLISHER2");
-        result += formatCheckValue("INSTALL_APPROVAL_HISTORY");
+        result += formatCheckValue("INSTALL_VERSION_BROWSER");
         result += formatCheckValue("INSTALL_TASK_MGMT");
         result += formatCheckValue("INSTALL_SP_SYNC");
 
@@ -132,7 +131,6 @@ Profile XML <u>local</u> file location (optional):
 <br/>
 <br/>
 
-
 Install Core modules:
 <br/>
 <input checked="checked" id="INSTALL_MODELER" name="INSTALL_MODELER" type="checkbox"></input>
@@ -152,7 +150,6 @@ Install Core modules:
 <label for="INSTALL_LICENSE_SERVICE">Run ServerLicensing as a windows service</label>
 <br/>
 <br/>
-
 
 <input id="SETUP_LICENSE_SERVER" name="SETUP_LICENSE_SERVER" onclick="javascript:updateState()"
     type="checkbox"></input>
@@ -184,7 +181,6 @@ URL of the SERVER license hosting server:
 
 <br/>
 <br/>
-
 
 <label for="INSTALL_DB">
 Install databases to SQL server:
@@ -283,7 +279,6 @@ Install Extensions:
     ActiveDirectory-Import</label>
 <br/>
 
-
 <br/>
 <input id="INSTALL_WEB_PUBLISHER" name="INSTALL_WEB_PUBLISHER" type="checkbox"></input>
 <label for="INSTALL_WEB_PUBLISHER">
@@ -293,8 +288,8 @@ Install Extensions:
 <label for="INSTALL_WEB_PUBLISHER2">
     ModelPublisher</label>
 <br/>
-<input id="INSTALL_APPROVAL_HISTORY" name="INSTALL_APPROVAL_HISTORY" type="checkbox"></input>
-<label for="INSTALL_APPROVAL_HISTORY">
+<input id="INSTALL_VERSION_BROWSER" name="INSTALL_VERSION_BROWSER" type="checkbox"></input>
+<label for="INSTALL_VERSION_BROWSER">
     ApprovalHistory</label>
 <br/>
 <br/>
