@@ -1,3 +1,4 @@
+- [V.8.1.8.38151 (01.12.2021)](#v818)
 - [V.8.1.6.38117 (07.09.2021)](#v816)
 - [V.8.1.5.38075 (23.06.2021)](#v815)
 - [V.8.1.4.38013 (26.05.2021)](#v814)
@@ -25,6 +26,12 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Release Notes
+
+### V.8.1.8. (10.12.2021) :id=v818
+- Fixed the problem with placing objects on diagram
+- Fixed the error during modeler installation 
+- Fixed the error on shapes update through the diagram update wizard
+- Improved Diagram Update logs
 
 ### V.8.1.6. (07.09.2021) :id=v816
 - Fixed the error during Diagram Update

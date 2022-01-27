@@ -1,3 +1,4 @@
+- [V.8.1.8.38151 (01.12.2021)](#v818)
 - [V.8.1.6.38117 (07.09.2021)](#v816)
 - [V.8.1.5.38075 (23.06.2021)](#v815)
 - [V.8.1.4.38013 (26.05.2021)](#v814)
@@ -25,6 +26,13 @@
 - [V.7.0.7.32716 (03.06.2018)](#v707)
 
 ## Changelog
+
+### V.8.1.8. (10.12.2021) :id=v818
+
+- Das Problem mit der Platzierung von Objekten im Diagramm wurde behoben
+- Fehler bei der Installation des Modellierers behoben 
+- Fehler bei der Aktualisierung von Shapes durch den Diagrammaktualisierungsassistenten behoben
+- Verbesserte Diagramm-Update-Protokolle
 
 ### V.8.1.6. (07.09.2021) :id=v816
 
