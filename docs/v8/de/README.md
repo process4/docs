@@ -1,6 +1,6 @@
 # Sie befinden sich in der deutschen Dokumentation zu process4.biz Version 8.0+
 
-Sie können ein Archiv mit dieser Dokumentation (sowohl die englische als auch die deutsche Version) als Zip-Archiv herunterladen - [documentation.zip](/documentation.zip). Um die Dokumentation lokal einzusehen, benötigen Sie einen einfachen Server (wir empfehlen [http-server](https://www.npmjs.com/package/http-server))  Alternativ können Sie die Dokumentation auch in [Github](https://github.com/process4/docs) einsehen.
+Sie können ein Archiv mit dieser Dokumentation (sowohl die englische als auch die deutsche Version) als Zip-Archiv herunterladen - [documentation.zip](https://help.process4.biz/documentation.zip). Um die Dokumentation lokal einzusehen, benötigen Sie einen einfachen Server (wir empfehlen [http-server](https://www.npmjs.com/package/http-server))  Alternativ können Sie die Dokumentation auch in [Github](https://github.com/process4/docs) einsehen.
 
 Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
