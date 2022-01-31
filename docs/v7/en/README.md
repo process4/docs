@@ -1,5 +1,8 @@
 # Welcome to documentation website for process4.biz release 7.0.1+
 
+
+You can download an archive with this documentation (both English and German version) as zip archive - [documentation.zip](/documentation.zip). To view the documentation locally, you'll need a simple server (we recommend [http-server](https://www.npmjs.com/package/http-server))  Alternatively, you can view documentation in  [Github](https://github.com/process4/docs).
+
 - Installation
 
 	- [Changelog](/changelog.md)
